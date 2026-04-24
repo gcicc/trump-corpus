@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Data: keep schemas + code in git; raw dumps live in Dropbox only.
+data/raw/
+data/processed/*.sqlite
+data/processed/*.parquet
+data/processed/*.npy
+data/processed/*.npy.ids.txt
+data/processed/embeddings.*
+!data/processed/.gitkeep
+!data/processed/summary.md
+
+# Local scratch
+notebooks/scratch*
+.env
+
+# Tooling state
+.claude/
