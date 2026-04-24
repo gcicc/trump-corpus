@@ -1,0 +1,97 @@
+{
+  "economy": {
+    "label": "Economy & Stock Market",
+    "color": "#2E6F40",
+    "description": "Markets, GDP, the Dow, Fed policy, inflation, economic growth."
+  },
+  "border": {
+    "label": "Border & Immigration",
+    "color": "#8C5E2A",
+    "description": "The wall, caravans, asylum, ICE, sanctuary cities, illegal immigration."
+  },
+  "media": {
+    "label": "Media",
+    "color": "#3F5F7F",
+    "description": "Fake news, specific networks/reporters, press, enemy of the people."
+  },
+  "elections": {
+    "label": "Elections & Voting",
+    "color": "#6B3F72",
+    "description": "Campaigns, polling, voter fraud, mail-in ballots, election integrity."
+  },
+  "china": {
+    "label": "China",
+    "color": "#A63D2A",
+    "description": "Xi, trade war, tariffs on China, COVID origins, Chinese currency."
+  },
+  "military": {
+    "label": "Military & Veterans",
+    "color": "#4A5C3A",
+    "description": "Troops, generals, VA, military parades, defense spending."
+  },
+  "energy": {
+    "label": "Energy",
+    "color": "#B08030",
+    "description": "Oil, drilling, pipelines, coal, Green New Deal, gas prices."
+  },
+  "courts": {
+    "label": "Courts, Judges & Legal Cases",
+    "color": "#5D3A5D",
+    "description": "Supreme Court, Mueller, impeachment, indictments, witch hunt."
+  },
+  "jobs": {
+    "label": "Jobs & Manufacturing",
+    "color": "#2F5F5F",
+    "description": "Factory openings, jobs numbers, USMCA, American workers."
+  },
+  "crime": {
+    "label": "Crime & Law Enforcement",
+    "color": "#7A3030",
+    "description": "Police, violence, gangs, chaos in Democrat cities, law and order."
+  },
+  "covid": {
+    "label": "COVID / Health",
+    "color": "#4B6A88",
+    "description": "Pandemic, vaccines, Operation Warp Speed, Fauci, lockdowns."
+  },
+  "trade": {
+    "label": "Trade & Tariffs",
+    "color": "#997A2E",
+    "description": "Tariffs (beyond China), NAFTA, trade imbalances, WTO."
+  },
+  "foreign_policy": {
+    "label": "Foreign Policy",
+    "color": "#415B6F",
+    "description": "Russia, Ukraine, Israel, NATO, Iran, North Korea."
+  },
+  "personal_family": {
+    "label": "Personal & Family",
+    "color": "#6E4C7A",
+    "description": "Melania, Ivanka, Don Jr., Eric, Barron, Tiffany, family moments."
+  },
+  "nicknames_bad": {
+    "label": "Bad Nicknames",
+    "color": "#8B1E3F",
+    "description": "Pejorative nicknames: Crooked Hillary, Sleepy Joe, Little Marco, etc."
+  },
+  "nicknames_good": {
+    "label": "Good Nicknames",
+    "color": "#C9A961",
+    "description": "Affectionate or positive nicknames for allies and family."
+  },
+  "rallies": {
+    "label": "Rallies & Campaign",
+    "color": "#8B5E2A",
+    "description": "Rally crowds, campaign travel, MAGA movement, 2024/2016 runs."
+  },
+  "lifestyle": {
+    "label": "Golf, Mar-a-Lago & Lifestyle",
+    "color": "#5E7A4C",
+    "description": "Golf courses, Mar-a-Lago events, properties, Trump Tower, leisure."
+  },
+  "general": {
+    "label": "General / Uncategorized",
+    "color": "#6B6B6B",
+    "description": "Posts that did not confidently match any curated theme."
+  }
+}

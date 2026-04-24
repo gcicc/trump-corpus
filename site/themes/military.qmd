@@ -1,0 +1,607 @@
+---
+title: "Military &amp; Veterans"
+subtitle: "1,504 posts where this was the primary topic."
+---
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+  h1 { border-bottom-color: #4A5C3A !important; }
+</style>
+
+
+<div id="theme-volume" class="volume-chart"></div>
+<script>
+  (function () {
+    var d = [{ x: ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], y: [5, 7, 74, 71, 95, 101, 71, 154, 128, 182, 252, 5, 25, 34, 122, 141, 37],
+                type: "bar", marker: { color: "#4A5C3A" } }];
+    var l = {
+      margin: { t: 10, r: 10, b: 35, l: 40 },
+      paper_bgcolor: "rgba(0,0,0,0)",
+      plot_bgcolor: "rgba(0,0,0,0)",
+      xaxis: { tickfont: { family: "Libre Franklin" } },
+      yaxis: { tickfont: { family: "Libre Franklin" } },
+      height: 260, showlegend: false
+    };
+    Plotly.newPlot("theme-volume", d, l, {displayModeBar: false, responsive: true});
+  })();
+</script>
+
+
+<p class="small-caps">Recurring phrases</p>
+<span class='chip' style='--chip-color:#4A5C3A'>complete total</span>, <span class='chip' style='--chip-color:#4A5C3A'>total endorsement</span>, <span class='chip' style='--chip-color:#4A5C3A'>congressional district</span>, <span class='chip' style='--chip-color:#4A5C3A'>second amendment</span>, <span class='chip' style='--chip-color:#4A5C3A'>united states</span>, <span class='chip' style='--chip-color:#4A5C3A'>will never</span>, <span class='chip' style='--chip-color:#4A5C3A'>great honor</span>, <span class='chip' style='--chip-color:#4A5C3A'>siege second</span>, <span class='chip' style='--chip-color:#4A5C3A'>secure border</span>, <span class='chip' style='--chip-color:#4A5C3A'>always siege</span>, <span class='chip' style='--chip-color:#4A5C3A'>let down</span>, <span class='chip' style='--chip-color:#4A5C3A'>grow economy</span>, <span class='chip' style='--chip-color:#4A5C3A'>never let</span>, <span class='chip' style='--chip-color:#4A5C3A'>military veterans</span>, <span class='chip' style='--chip-color:#4A5C3A'>air force</span>
+
+
+::: {.muted}
+Showing the top 40 posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
+:::
+
+<div class="post-stream">
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2021">
+  <div class="avatar" style="background-image:url(../assets/avatars/2021.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@POTUS45</span> &middot; Sep 22, 2021  04:25</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">“We will rebuild our MILITARY. We will keep our people SAFE. We will take care of our VETS. We will put #AmericaFirst https://t.co/A0tlzHutF8”</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_842472370141052928" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/POTUS45/status/842472370141052928" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 24, 2019  06:33</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Budget Deal gives great victories to our Military and Vets</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1153795327310221312" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1153795327310221312" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 03, 2018  02:11</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We will not rest until all of America’s GREAT VETERANS can receive the care they so richly deserve. Tremendous progress has been made in a short period of time. Keep up the great work @SecShulkin @DeptVetAffairs! https://t.co/ir25vW15hx https://t.co/OtuzIgxMn6&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_948255367393349634" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/948255367393349634" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 30, 2015  15:32</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We have a sacred duty to care for our vets and their families. Veterans deserve universal access to care anywhere and anytime!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_582641556357812224" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/582641556357812224" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 02, 2017  12:47</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We will always take care of our GREAT VETERANS. You have shed your blood</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_881373634585079808" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/881373634585079808" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 20, 2020  09:36</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We have sent our best Military &amp; @ FEMA Teams</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1263116301012217856" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1263116301012217856" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 31, 2019  01:16</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;...our Military</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1189591905740513280" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1189591905740513280" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 04, 2017  03:07</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our GREAT VETERANS can now connect w/ their VA healthcare team from anywhere</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #4B6A88">COVID / Health</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_893186623193718784" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/893186623193718784" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 06, 2016  15:02</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Thank you to all of our amazing military families</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_773250022045548544" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/773250022045548544" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 09, 2018  21:39</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Just signed Bill. Our Military will now be stronger than ever before. We love and need our Military and gave them everything — and more. First time this has happened in a long time. Also means JOBS</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_961957671246159875" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/961957671246159875" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 12, 2023  20:50</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT @washtimesRep. Jim Jordan: “If we’d focus on getting rid of all the ‘woke’ in our military, we’d have the money we need to make sure our troops get the pay raise they deserve, we’d have the weapons systems and training that needs to be done so that we’re ready to deal with our adversaries around the planet.&quot;https://trib.al/T9bxxsT</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109678208405509489" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109678208405509489" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 23, 2019  19:25</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....Best and Newest Military (almost totally rebuilt from the depleted military I took over) in History</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1153627261058392064" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1153627261058392064" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 15, 2015  07:50</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;I will rebuild the military</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_643768825117282304" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/643768825117282304" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 08, 2017  22:54</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Congratulations to our great military men and women for representing the United States</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_850723509370327040" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/850723509370327040" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 24, 2016  09:08</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;I will make our Military so big</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_691276412666261504" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/691276412666261504" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 16, 2018  04:43</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;It is our sacred duty to support America’s Service Members every single day they wear the uniform – and every day after when they return home as Veterans. Together we will HONOR those who defend us</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1063170699500642304" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1063170699500642304" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 01, 2019  22:30</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Budget Deal is phenomenal for our Great Military</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1156935288322699265" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1156935288322699265" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 16, 2015  08:54</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We have a sacred duty to care for our vets and their families. Our Vets are owed full access to healthcare anytime &amp; anywhere!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #4B6A88">COVID / Health</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_588702115616399360" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/588702115616399360" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 31, 2016  06:42</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;I have raised/given a tremendous amount of money to our great VETERANS</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_737610159459991552" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/737610159459991552" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 02, 2017  22:09</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;It was my great honor to pay tribute to a VET who went above &amp;amp; beyond the call of duty to PROTECT our COMRADES</div>
+  
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_892749228291874816" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/892749228291874816" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 05, 2015  15:39</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our nation has a duty to care for our vets &amp; their families. It&#x27;s time to do it! Let‚Äôs Make America Great Again!https://www.donaldjtrump.com/&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #4B6A88">COVID / Health</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_606923196365946881" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/606923196365946881" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 14, 2018  20:29</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;So proud of our great Military which will soon be</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_985133017256660995" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/985133017256660995" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 01, 2020  08:55</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;One of my greatest honors was to have gotten CHOICE approved for our great Veterans. Others have tried for decades</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1212175360093229056" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1212175360093229056" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 13, 2016  20:18</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Thank you to our U.S. Navy for protecting our country</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_786737820669009921" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/786737820669009921" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 11, 2016  09:26</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Today we express our deepest gratitude to all those who have served in our armed forces. # ThankAVetpic.twitter.com/wPk7QWpK8Z&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_797098212599496704" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/797098212599496704" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 10, 2023  17:57</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">To our heroic Veterans, I am grateful for your service to our Country and honored to wish you a Happy Veterans Day!There is no greater act of selfless service than defending America’s God-given freedoms and liberty. The traditions of excellence and integrity demonstrated by our men and women in uniform never fade after leaving the Military—once a Soldier, Sailor, Airman, Marine, Coast Guardsman, or Guardian—always.Our Veterans will never stop fighting for the America we cherish. The full measure of your sacrifice and your family’s dedication in support of your service may not be fully understood and appreciated, but it will never be forgotten.On this Veterans Day and always, May God Bless you and your family, our Nation’s Veterans, and our Military men and women, and May He Bless and uphold the United States of America. MAKE AMERICA GREAT AGAIN!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111387544549494085" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111387544549494085" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 25, 2020  05:31</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;After consultation with our Great Military Leaders</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #4B6A88">COVID / Health</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1220821545746141187" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1220821545746141187" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 25, 2015  14:31</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our great VETERANS are being treated very badly because of corruption and incompetence at the V.A. That will stop</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_680486088255909888" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/680486088255909888" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 03, 2019  20:27</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We have the greatest economy anywhere in the world. We have the greatest military anywhere in the world. Not bad!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1146395148856844289" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1146395148856844289" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2021">
+  <div class="avatar" style="background-image:url(../assets/avatars/2021.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@POTUS45</span> &middot; Aug 12, 2021  08:35</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">“We must provide the men and women of the U.S. Military with the tools they need to prevent war and – if they must – TO FIGHT AND TO WIN.”</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_836772084445507584" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/POTUS45/status/836772084445507584" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 25, 2015  20:30</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Always great to speak with Veterans - our nation&#x27;s heroes. We will Make America Great Again!pic.twitter.com/P58AGMmBwY&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_625116052440137728" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/625116052440137728" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 02, 2025  22:12</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Just had a great talk with our Military Leaders. It is the strongest Military we have ever had, including the fact that we are stockpiling weapons at a rate never seen before by our Country. Hopefully, however, we will never have to use them!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114616063852488330" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114616063852488330" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 11, 2017  19:29</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Military solutions are now fully in place</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #4B6A88">COVID / Health</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_895970429734711298" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/895970429734711298" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 17, 2018  01:21</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;House votes today on Choice/MISSION Act. Who will stand with our Great Vets</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #6B3F72">Elections &amp; Voting</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_996802784090640385" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/996802784090640385" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 27, 2015  14:50</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Veterans</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_625755141682122753" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/625755141682122753" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 16, 2017  21:41</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our military is building and is rapidly becoming stronger than ever before. Frankly</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_853604334944354305" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/853604334944354305" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 31, 2016  11:57</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;So many veterans groups are beyond happy with all of the money I raised/gave! It was my great honor - they do an amazing job.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_737689416811073536" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/737689416811073536" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 18, 2020  15:49</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Today I spoke with American physicians and nurses to thank them for their tireless work. Doctors and nurses are at the front lines of this war and are true American HEROES! With their help</div>
+  <div class="chips"><span class="chip" style="--chip-color: #4B6A88">COVID / Health</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1240379840987115532" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1240379840987115532" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 21, 2016  15:13</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Thank you to all of the men and women who have served our country. You are our true heroes! # ArmedForcesDaypic.twitter.com/A3Wus0cRIO&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #C9A961">Good Nicknames</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_734114828529307648" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/734114828529307648" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #4A5C3A" data-theme="military" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 15, 2015  09:39</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our vets are treated like 3rd class citizens. Enough! Join me &amp; @ V4SA on @ USSIOWA at LA Waterfront to hear my plan for vets &amp; the military!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_643796377781293056" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/643796377781293056" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+</div>
+
+::: {.seal-divider}
+![](../assets/seal.svg){width=60}
+:::
+
+[← Back to all topics](../themes.qmd){.small-caps}

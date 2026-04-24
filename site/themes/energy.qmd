@@ -1,0 +1,607 @@
+---
+title: "Energy"
+subtitle: "1,433 posts where this was the primary topic."
+---
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+  h1 { border-bottom-color: #B08030 !important; }
+</style>
+
+
+<div id="theme-volume" class="volume-chart"></div>
+<script>
+  (function () {
+    var d = [{ x: ["2009", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2022", "2023", "2024", "2025", "2026"], y: [2, 43, 150, 131, 71, 32, 36, 91, 63, 112, 159, 49, 129, 125, 189, 51],
+                type: "bar", marker: { color: "#B08030" } }];
+    var l = {
+      margin: { t: 10, r: 10, b: 35, l: 40 },
+      paper_bgcolor: "rgba(0,0,0,0)",
+      plot_bgcolor: "rgba(0,0,0,0)",
+      xaxis: { tickfont: { family: "Libre Franklin" } },
+      yaxis: { tickfont: { family: "Libre Franklin" } },
+      height: 260, showlegend: false
+    };
+    Plotly.newPlot("theme-volume", d, l, {displayModeBar: false, responsive: true});
+  })();
+</script>
+
+
+<p class="small-caps">Recurring phrases</p>
+<span class='chip' style='--chip-color:#B08030'>https www</span>, <span class='chip' style='--chip-color:#B08030'>joe biden</span>, <span class='chip' style='--chip-color:#B08030'>united states</span>, <span class='chip' style='--chip-color:#B08030'>donald trump</span>, <span class='chip' style='--chip-color:#B08030'>gas prices</span>, <span class='chip' style='--chip-color:#B08030'>president trump</span>, <span class='chip' style='--chip-color:#B08030'>wind turbines</span>, <span class='chip' style='--chip-color:#B08030'>global warming</span>, <span class='chip' style='--chip-color:#B08030'>com politics</span>, <span class='chip' style='--chip-color:#B08030'>president donald</span>, <span class='chip' style='--chip-color:#B08030'>green new</span>, <span class='chip' style='--chip-color:#B08030'>http bit</span>, <span class='chip' style='--chip-color:#B08030'>american energy</span>, <span class='chip' style='--chip-color:#B08030'>energy costs</span>, <span class='chip' style='--chip-color:#B08030'>tax cuts</span>
+
+
+::: {.muted}
+Showing the top 40 posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
+:::
+
+<div class="post-stream">
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 09, 2023  19:51</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">To bring down the energy costs for New Hampshire families, I will immediately rescind every Green New Deal catastrophe of the Biden Administration—and we will DRILL BABY DRILL!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111206797829322014" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111206797829322014" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 09, 2025  21:44</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">We are taking historic action to help American workers, miners, families, and consumers. We&#x27;re ending Joe Biden&#x27;s war on beautiful, clean coal once and for all, and we&#x27;re gonna put the miners back to work!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114310188132445566" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114310188132445566" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 02, 2013  12:59</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Keystone XL should be approved but more importantly we should be drilling &amp; fracking our own resources. Would be an economic windfall.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_363358378157805570" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/363358378157805570" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2014">
+  <div class="avatar" style="background-image:url(../assets/avatars/2014.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 03, 2014  13:32</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Obama‚Äôs war on coal is killing American jobs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_473895061747695616" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/473895061747695616" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 25, 2025  01:00</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Our Country’s doing really well, and today, I was just thinking, that the company building the Keystone XL Pipeline that was viciously jettisoned by the incompetent Biden Administration should come back to America, and get it built — NOW! I know they were treated very badly by Sleepy Joe Biden, but the Trump Administration is very different — Easy approvals, almost immediate start! If not them, perhaps another Pipeline Company. We want the Keystone XL Pipeline built!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114061816777959152" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114061816777959152" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2012">
+  <div class="avatar" style="background-image:url(../assets/avatars/2012.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 17, 2012  14:48</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Gas prices have doubled under Obama. Over $5/gallon now in California. We must start drilling from our own resources to become independent.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_247784012322594816" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/247784012322594816" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 01, 2020  06:07</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Just signed an order to protect fracking and the oil and gas industry. This means JOBS</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1322661450540814336" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1322661450540814336" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2012">
+  <div class="avatar" style="background-image:url(../assets/avatars/2012.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 03, 2012  14:28</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Fracking will lead to American energy independence. With price of natural gas continuing to drop</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_198131842593984515" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/198131842593984515" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 08, 2025  21:31</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT: https://truthsocial.com/users/realDonaldTrump/statuses/114304424640936613Today, we took historic action to help American workers, miners, families and consumers. We&#x27;re ending Joe Biden&#x27;s war on beautiful, clean coal once and for all, and we&#x27;re going to put the miners back to work!Â</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114304476490205414" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114304476490205414" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 17, 2013  11:57</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Obama administration is killing American industrial renaissance by stopping drilling and fracking. Terrible for economy.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_390884305234165760" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/390884305234165760" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 04, 2023  14:10</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Crooked Joe Biden and the Democrats, despite the lessons recently learned in Germany and numerous other places, want to shut down all U.S. COAL PLANTS. This, as China is building one giant coal plant a week. A USA DEATH WISH!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111522548812349051" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111522548812349051" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 03, 2013  13:59</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Oil has been over $33/gallon for 34 months. A new record. And now with Obama‚Äôs war on coal</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_385841534848880641" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/385841534848880641" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 03, 2024  23:05</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">https://www.rsbnetwork.com/news/coal-workers-trump-wants-to-protect-your-jobs-while-biden-seeks-to-destroy-them/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_112379661113560173" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/112379661113560173" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 09, 2023  17:14</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">https://www.rsbnetwork.com/news/coal-workers-trump-wants-to-protect-your-jobs-while-biden-seeks-to-destroy-them/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111551582364507693" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111551582364507693" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 08, 2023  17:26</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">https://www.rsbnetwork.com/news/coal-workers-trump-wants-to-protect-your-jobs-while-biden-seeks-to-destroy-them/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111545965851613852" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111545965851613852" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 31, 2020  02:58</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Joe Biden has vowed to abolish the entire U.S. Energy Industry — no fracking</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1322251577906798592" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1322251577906798592" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 09, 2024  20:56</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">When I am President of the United States...on Day One, I will tell Pennsylvania energy workers to FRACK, FRACK, FRACK, and DRILL, DRILL, DRILL! We will have Energy INDEPENDENCE and Energy DOMINANCE, as we did just 4 short years ago—But if Kamala is reelected, your costs will go UP and your lights will go OUT…</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113279462039052982" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113279462039052982" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2012">
+  <div class="avatar" style="background-image:url(../assets/avatars/2012.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 19, 2012  07:42</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Obama killed over 100k jobs by not approving Keystone XL pipeline and Canada is now selling the oil to China--very dumb!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_248401743833075712" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/248401743833075712" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 18, 2015  15:39</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;If I am elected President I will immediately approve the Keystone XL pipeline. No impact on environment &amp; lots of jobs for U.S.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_633739970985897984" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/633739970985897984" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 25, 2013  14:48</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The shale boom is saving our economy http://yhoo.it/1aoHBRk Good for jobs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_382954902655209472" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/382954902655209472" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 10, 2026  21:17</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">America is returning to REAL ENERGY DOMINANCE! Today I am proud to announce that America First Refining is opening the FIRST new U.S. Oil Refinery in 50 YEARS in Brownsville, Texas. THIS IS A HISTORIC $300 BILLION DOLLAR DEAL — THE BIGGEST IN U.S. HISTORY, A MASSIVE WIN for American Workers, Energy, and the GREAT People of South Texas! Thank you to our partners in India, and their largest privately held Energy Company, Reliance, for this tremendous Investment. It is because of our America First Agenda, streamlining Permits, and lowering Taxes, that have attracted Billions of Dollars in Deals coming back to our Nation. A new Refinery at the Port of Brownsville, will fuel U.S. Markets, strengthen our National Security, boost American Energy production, deliver Billions of Dollars in Economic impact, and will be THE CLEANEST REFINERY IN THE WORLD. It will power Global Exports, and bring THOUSANDS of long overdue Jobs and Growth to a Region that deserves it. This is what AMERICAN ENERGY DOMINANCE looks like. AMERICA FIRST, ALWAYS!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_116206958726200848" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/116206958726200848" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 06, 2015  13:47</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;So sad that Obama rejected Keystone Pipeline. Thousands of jobs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_662717972981551104" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/662717972981551104" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 23, 2025  13:37</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">To The Department of Energy: DRILL, BABY, DRILL!!!  And I mean NOW!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114732948019406900" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114732948019406900" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 13, 2020  19:48</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @parscale: Joe Biden put @AOC in charge of his radical $93 TRILLION Green New Deal task force.  AOC and Biden&#x27;s extremist agenda will END America&#x27;s energy independence and eliminate countless American jobs.  President Trump is fighting for American energy workers! 🇺🇸 https://t.co/3kjVFLVcI0&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1271771501839204353" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1271771501839204353" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 12, 2020  08:27</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Crude Oil prices going up as Saudi Arabia cuts production levels. Our great Energy Companies</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1260199923968081920" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1260199923968081920" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 30, 2017  07:10</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our new American Energy Policy will unlock MILLIONS of jobs &amp;amp; TRILLIONS in wealth. We are on the cusp of a true ene… https://t.co/w5Y7UXZSSD&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_880564232588107779" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/880564232588107779" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 23, 2013  15:49</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Obama‚Äôs coal regulations will destroy the coal industry</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_382245373353283584" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/382245373353283584" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 12, 2023  01:38</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Crooked Joe Biden gave us the war on Israel, and the war on American Energy…As president, I will shut off Iranian oil, and I will turn on American oil—we will DRILL, BABY, DRILL!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111219486308466871" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111219486308466871" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 02, 2017  10:30</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;It is finally happening for our great clean coal miners! https://t.co/suAnjs6Ccz&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_925913030159937537" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/925913030159937537" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 15, 2017  21:46</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;...approvals of The Keystone XL &amp;amp; Dakota Access pipelines. Also</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_919560102725738498" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/919560102725738498" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 01, 2020  10:07</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Joe Biden has vowed to ABOLISH American Oil and Natural Gas. Today I signed an order to strongly protect Pennsylvania&#x27;s energy &amp;amp; fracking industry. If Biden &amp;amp; Harris get in</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1322721970685923329" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1322721970685923329" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 19, 2013  15:47</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;$5 a gallon gas and we have yet to approve the Keystone XL Pipeline. OPEC is laughing at us.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_303984203333259264" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/303984203333259264" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 14, 2020  19:30</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @GOPChairwoman: A Biden-Harris fracking ban would kill MILLIONS of jobs &amp;amp; send energy prices through the roof.  Who would benefit?   Adversaries like Iran</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1294234822555119621" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1294234822555119621" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 03, 2020  19:26</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @GOPChairwoman: Joe Biden&#x27;s radical agenda would wipe out our energy sector and destroy over 10 million American jobs.  Under @realDonaldTrump</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1290247650139308033" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1290247650139308033" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 01, 2020  02:58</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Biden’s plan to Abolish American Energy is an economic DEATH SENTENCE for Pennsylvania. A vote for Biden is a vote to BAN FRACKING &amp;amp; send PA into a nightmare of poverty &amp;amp; depression. Gas prices would explode &amp;amp; family incomes would plummet—I will always defend &amp;amp; promote PA energy! https://t.co/tdYqMVWQGM&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1322613905001226240" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1322613905001226240" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 29, 2023  03:07</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT @SpeakerMcCarthyGood news today! The Supreme Court agreed with the House that the Mountain Valley Pipeline can and should be built. That’s the right call for American workers and American energy independence.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_110795164240741023" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/110795164240741023" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2013">
+  <div class="avatar" style="background-image:url(../assets/avatars/2013.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 04, 2013  15:38</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;China is buying our shale and gas fields http://onforb.es/VE8w8E &amp; Obama still won‚Äôt approve Keystone http://reut.rs/VE8Ioo Pathetic!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_298546046081048577" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/298546046081048577" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2012">
+  <div class="avatar" style="background-image:url(../assets/avatars/2012.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 19, 2012  11:07</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Oil would be $25 a barrel if our government would let us drill. Our country would be rich again--who needs OPEC.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_248453332493012992" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/248453332493012992" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 18, 2023  16:37</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">https://www.foxnews.com/politics/former-keystone-xl-workers-still-reeling-two-years-biden-axed-pipeline</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109711188124768408" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109711188124768408" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #B08030" data-theme="energy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 24, 2020  12:46</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Carney: Joe Biden‘s Energy Plan Would Eviscerate Wisconsin Sand Miners https://t.co/2PtP3Rj0Id via @BreitbartNews Wisconsin would be badly hurt because Biden would definitely end Fracking. No more Sand Mine usage!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1319862880846708737" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1319862880846708737" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+</div>
+
+::: {.seal-divider}
+![](../assets/seal.svg){width=60}
+:::
+
+[← Back to all topics](../themes.qmd){.small-caps}

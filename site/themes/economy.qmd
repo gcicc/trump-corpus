@@ -1,0 +1,607 @@
+---
+title: "Economy &amp; Stock Market"
+subtitle: "1,994 posts where this was the primary topic."
+---
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+  h1 { border-bottom-color: #2E6F40 !important; }
+</style>
+
+
+<div id="theme-volume" class="volume-chart"></div>
+<script>
+  (function () {
+    var d = [{ x: ["2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], y: [2, 1, 88, 254, 198, 106, 100, 56, 119, 126, 249, 168, 1, 45, 105, 150, 167, 59],
+                type: "bar", marker: { color: "#2E6F40" } }];
+    var l = {
+      margin: { t: 10, r: 10, b: 35, l: 40 },
+      paper_bgcolor: "rgba(0,0,0,0)",
+      plot_bgcolor: "rgba(0,0,0,0)",
+      xaxis: { tickfont: { family: "Libre Franklin" } },
+      yaxis: { tickfont: { family: "Libre Franklin" } },
+      height: 260, showlegend: false
+    };
+    Plotly.newPlot("theme-volume", d, l, {displayModeBar: false, responsive: true});
+  })();
+</script>
+
+
+<p class="small-caps">Recurring phrases</p>
+<span class='chip' style='--chip-color:#2E6F40'>https www</span>, <span class='chip' style='--chip-color:#2E6F40'>stock market</span>, <span class='chip' style='--chip-color:#2E6F40'>donald trump</span>, <span class='chip' style='--chip-color:#2E6F40'>http bit</span>, <span class='chip' style='--chip-color:#2E6F40'>all time</span>, <span class='chip' style='--chip-color:#2E6F40'>interest rates</span>, <span class='chip' style='--chip-color:#2E6F40'>president trump</span>, <span class='chip' style='--chip-color:#2E6F40'>too late</span>, <span class='chip' style='--chip-color:#2E6F40'>united states</span>, <span class='chip' style='--chip-color:#2E6F40'>more than</span>, <span class='chip' style='--chip-color:#2E6F40'>make america</span>, <span class='chip' style='--chip-color:#2E6F40'>america great</span>, <span class='chip' style='--chip-color:#2E6F40'>federal reserve</span>, <span class='chip' style='--chip-color:#2E6F40'>great again</span>, <span class='chip' style='--chip-color:#2E6F40'>tax cuts</span>
+
+
+::: {.muted}
+Showing the top 40 posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
+:::
+
+<div class="post-stream">
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 06, 2018  22:52</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Great financial numbers being announced on an almost daily basis. Economy has never been better</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1026481210405605376" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1026481210405605376" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 21, 2019  06:56</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Economic numbers reach an all time high</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1152713896303714304" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1152713896303714304" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 03, 2023  04:28</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Under the Trump administration, we built the greatest economy in the history of the world—with soaring incomes, rising wages, and household net worth hitting the highest level EVER recorded! https://ia.donaldjtrump.com/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111514598495750720" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111514598495750720" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 17, 2017  06:40</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;A great deal of good things happening for our country. Jobs and Stock Market at all time highs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_909185223887347712" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/909185223887347712" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 19, 2019  20:51</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Economy is one of the best in our history</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1086607079308251136" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1086607079308251136" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 20, 2018  10:29</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The U.S. economy is looking very good</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_965775382598311937" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/965775382598311937" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 01, 2020  02:42</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our ECONOMY is now surging back faster</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1322609833405763584" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1322609833405763584" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 18, 2019  06:24</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....Greatest Economic BOOM in the history of our Country</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1151618791069114368" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1151618791069114368" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 29, 2019  21:05</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Economy is doing GREAT</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1167060675480473600" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1167060675480473600" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 22, 2019  22:21</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Economy is doing really well. The Federal Reserve can easily make it Record Setting! The question is being asked</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1164543211660042241" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1164543211660042241" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 24, 2020  22:27</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our Economy is doing great</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1320009047593156608" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1320009047593156608" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 18, 2018  21:39</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Economy is stronger and better than ever before. Importantly</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1030811421007929345" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1030811421007929345" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 13, 2018  04:53</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;...realize the economy is the best it’s ever been with employment being at an all time high</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1006640694264397824" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1006640694264397824" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 13, 2018  17:40</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;...realize the economy is the best it’s ever been with employment being at an all time high</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1006833568641777664" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1006833568641777664" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 16, 2018  20:43</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our Economy is doing better than ever. Money is pouring into our cherished DOLLAR like rarely before</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1030072571948134400" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1030072571948134400" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 05, 2017  19:09</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Stock Market hits an ALL-TIME high! Unemployment lowest in 16 years! Business and manufacturing enthusiasm at highest level in decades!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_915896809536589824" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/915896809536589824" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 16, 2019  11:22</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We now have the greatest Economy in history! https://t.co/8fLOejOpxH&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1184308485237948416" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1184308485237948416" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 22, 2019  03:28</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Some of the best Economic Numbers our Country has ever experienced are happening right now. This is despite a Crooked and Demented Deep State</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1175492022662287361" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1175492022662287361" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 29, 2023  22:47</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">THE ECONOMY IS TERRIBLE &amp;amp; INFLATION, WHICH BY SOME ACCOUNTS IS MORE THAN 30% OVER THE LAST THREE YEARS, HAS TOTALLY DESTROYED THE BUYING POWER OF THE CONSUMER. THE ONLY THING THAT IS KEEPING THE ECONOMY “ALIVE” IS THE FUMES OF WHAT WE ACCOMPLISHED DURING THE TRUMP ADMINISTRATION. THE STOCK MARKET IS ONLY HIGH BECAUSE PEOPLE, &amp;amp; INSTITUTIONS, BELIEVE &amp;amp; EXPECT ME TO WIN THE PRESIDENTIAL ELECTION OF 2024. IF I DON’T WIN, IT IS MY PREDICTION THAT WE WILL HAVE A STOCK MARKET “CRASH” WORSE THAN THAT OF 1929 - A GREAT DEPRESSION!!! MAKE AMERICA GREAT AGAIN!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111666136735962039" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111666136735962039" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 10, 2025  14:28</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tech Stocks, Industrial Stocks, &amp;amp; NASDAQ, HIT ALL-TIME, RECORD HIGHS! CRYPTO, âThrough the Roof.â NVIDIA IS UP 47% SINCE TRUMP TARIFFS. USA is taking in Hundreds of Billions of Dollars in Tariffs. COUNTRY IS NOW âBACK.â A GREAT CREDIT! FED SHOULD RAPIDLY LOWER RATE TO REFLECT THIS STRENGTH. USA SHOULD BE AT THE âTOP OF THE LIST.â NO INFLATION!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114829408208555940" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114829408208555940" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 17, 2018  21:08</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our economy is perhaps BETTER than it has ever been. Companies doing really well</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1008335560988078080" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1008335560988078080" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 20, 2019  03:54</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our Economy and Jobs Market is BOOMING</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1130200090583478274" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1130200090583478274" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 13, 2026  21:39</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Under my stewardship, the Economy is booming! A Manufacturing Renaissance and soaring Household Incomes are powering GDP gains that have not been seen in decades, and we are undergoing a DIS-inflationary boom. The Private Sector is growing by over 5% thanks to the most Business Investment we have ever seen, maybe in History, and Inflation trends are looking GOOD. All the smart money knows the &quot;HOTTEST&quot; Economy in the World is the U.S.A. TIME TO INVEST!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115889956193740965" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115889956193740965" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 25, 2024  06:07</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">“ECONOMY REMAINS TOP ISSUE FOR VOTERS” https://www.DonaldJTrump.com</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113196691472985777" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113196691472985777" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 30, 2018  20:33</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Stock Market is up massively since the Election</div>
+  <div class="chips"><span class="chip" style="--chip-color: #B08030">Energy</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1057249169507803137" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1057249169507803137" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 14, 2025  12:23</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Our Economy will BOOM, like never before!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114160764726726796" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114160764726726796" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 03, 2018  18:33</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The economy is doing perhaps better than ever before</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1014094834863362049" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1014094834863362049" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 10, 2018  21:57</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Economy is soooo good</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1039150829754888193" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1039150829754888193" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 12, 2020  02:33</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....economy was shuttered. This is unprecedented</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1249042799162515457" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1249042799162515457" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 03, 2017  19:17</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @PressSec: The Trump effect: “The U.S. economy is running at its full potential for the first time in a decade” -WSJ https://t.co/ee5N0zOU7W&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_937279645254340608" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/937279645254340608" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 16, 2017  20:57</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The U.S. has gained more than 5.2 trillion dollars in Stock Market Value since Election Day! Also</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_919910256624447493" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/919910256624447493" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 12, 2017  10:14</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Great numbers on the economy. All of our work</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_874087477807599616" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/874087477807599616" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 24, 2017  06:44</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Stock Market is setting record after record and unemployment is at a 17 year low. So many things accomplished by the Trump Administration</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_944700332881440769" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/944700332881440769" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 19, 2019  10:26</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our Economy is very strong</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1163472272612626433" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1163472272612626433" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 26, 2017  18:51</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The U.S. recorded its slowest economic growth in five years (2016). GDP up only 1.6%. Trade deficits hurt the economy very badly.&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_857185261029126144" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/857185261029126144" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 11, 2020  21:35</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;BEST USA ECONOMY IN HISTORY!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1227224631754489857" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1227224631754489857" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 17, 2018  06:18</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Best economic numbers in decades. If the Democrats take control</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1041451203442487297" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1041451203442487297" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 27, 2024  18:28</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">HEADING TO A REALLY BAD ECONOMY! “GDP Growth Misses Estimate by 64 Percent, Recession Fears Real” https://www.newsmax.com/finance/streettalk/gdp-recession-federal-reserve/2024/04/25/id/1162489/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_112344596654535567" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/112344596654535567" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 19, 2019  03:24</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our economy is the best in the world</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1163169730477395968" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1163169730477395968" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #2E6F40" data-theme="economy" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 03, 2017  07:55</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Stock Market at all time high</div>
+  <div class="chips"><span class="chip" style="--chip-color: #997A2E">Trade &amp; Tariffs</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_881662619282702338" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/881662619282702338" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+</div>
+
+::: {.seal-divider}
+![](../assets/seal.svg){width=60}
+:::
+
+[← Back to all topics](../themes.qmd){.small-caps}

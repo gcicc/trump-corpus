@@ -23,3 +23,14 @@ notebooks/scratch*
 
 # Tooling state
 .claude/
+
+# Quarto build
+site/_site/
+site/.quarto/
+
+# Audio renders (large; regenerable with scripts/render_voice.py)
+site/audio/
+site/data/audio_manifest.json
+site/data/images.json
+site/data/locations.json
+!site/data/topics.json

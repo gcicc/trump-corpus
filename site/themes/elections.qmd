@@ -1,0 +1,607 @@
+---
+title: "Elections &amp; Voting"
+subtitle: "4,000 posts where this was the primary topic."
+---
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+  h1 { border-bottom-color: #6B3F72 !important; }
+</style>
+
+
+<div id="theme-volume" class="volume-chart"></div>
+<script>
+  (function () {
+    var d = [{ x: ["2009", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], y: [2, 10, 95, 59, 118, 358, 240, 50, 88, 201, 627, 27, 420, 812, 665, 158, 70],
+                type: "bar", marker: { color: "#6B3F72" } }];
+    var l = {
+      margin: { t: 10, r: 10, b: 35, l: 40 },
+      paper_bgcolor: "rgba(0,0,0,0)",
+      plot_bgcolor: "rgba(0,0,0,0)",
+      xaxis: { tickfont: { family: "Libre Franklin" } },
+      yaxis: { tickfont: { family: "Libre Franklin" } },
+      height: 260, showlegend: false
+    };
+    Plotly.newPlot("theme-volume", d, l, {displayModeBar: false, responsive: true});
+  })();
+</script>
+
+
+<p class="small-caps">Recurring phrases</p>
+<span class='chip' style='--chip-color:#6B3F72'>https www</span>, <span class='chip' style='--chip-color:#6B3F72'>donald trump</span>, <span class='chip' style='--chip-color:#6B3F72'>com news</span>, <span class='chip' style='--chip-color:#6B3F72'>com politics</span>, <span class='chip' style='--chip-color:#6B3F72'>presidential election</span>, <span class='chip' style='--chip-color:#6B3F72'>www rsbnetwork</span>, <span class='chip' style='--chip-color:#6B3F72'>rsbnetwork com</span>, <span class='chip' style='--chip-color:#6B3F72'>election interference</span>, <span class='chip' style='--chip-color:#6B3F72'>donaldjtrump com</span>, <span class='chip' style='--chip-color:#6B3F72'>get out</span>, <span class='chip' style='--chip-color:#6B3F72'>https justthenews</span>, <span class='chip' style='--chip-color:#6B3F72'>justthenews com</span>, <span class='chip' style='--chip-color:#6B3F72'>twitter com</span>, <span class='chip' style='--chip-color:#6B3F72'>joe biden</span>, <span class='chip' style='--chip-color:#6B3F72'>poll numbers</span>
+
+
+::: {.muted}
+Showing the top 40 posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
+:::
+
+<div class="post-stream">
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 04, 2025  04:31</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Great! Our Elections are  Crooked and Rigged. The voters know it. Must bring integrity back to Voting. START WITH VOTER ID! https://justthenews.com/politics-policy/elections/election-integrity-push-doj-track-compel-voter-roll-cleanups-over-half-us</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115659421538834732" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115659421538834732" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 29, 2022  15:00</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT: https://truthsocial.com/users/dbongino/statuses/109424102517109594This is a MUST WATCH. Our Elections are Rigged. Mail-In Ballots are a total SCAM. How about all of those “BROKEN” Republican Voting Machine? GET SMART REPUBLICANS, OR YOU WON’T HAVE A PARTY (OR COUNTRY) LEFT!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109427687892769753" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109427687892769753" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 19, 2026  13:51</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Rigged Elections are common in the U.S., with the Presidential Election of 2020 being the Granddaddy of them all. WE DEMAND VOTER I.D.In Somali fraud scandal, Republicans probe evidence of a blue state election scheme: https://justthenews.com/accountability/political-ethics/somali-fraud-scandal-republicans-congress-unmask-blueprint-blue/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115922086257363944" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115922086257363944" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 19, 2020  13:27</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;“Statistical sampling to prove widespread voter fraud...multiple accounts of fraud and voting irregularities may overturn election”...call for paper ballots.  @RandPaul  @OANN&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1329295102834057217" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1329295102834057217" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 11, 2020  21:15</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @realDonaldTrump: ....Absentee Ballots are fine because you have to go through a precise process to get your voting privilege. Not so with Mail-Ins. Rigged Election!!! 20% fraudulent ballots?&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1281940128550858752" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1281940128550858752" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 07, 2022  16:52</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">A Must Read—the Election was Rigged, in many other ways also. Shame! https://www.americanthinker.com/blog/2022/09/retaining_election_records_from_the_2020_election.html</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109128026969788560" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109128026969788560" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 24, 2020  22:08</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The United States cannot have all Mail In Ballots. It will be the greatest Rigged Election in history. People grab them from mailboxes</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1264558926021959680" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1264558926021959680" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 26, 2020  07:37</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;80 Million Unsolicited Ballots are impossible for election centers to tabulate accurately. The Democrats know this better than anyone else. The fraud and abuse will be an embarrassment to our Country. Hopefully the Courts will stop this scam!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1298404245629284354" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1298404245629284354" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 10, 2020  19:51</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Mail-In Ballot fraud found in many elections. People are just now seeing how bad</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1281556745211523072" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1281556745211523072" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 29, 2024  16:58</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Fox Polls are Rigged and Worthless!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113046369119613948" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113046369119613948" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 13, 2023  18:30</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">THE MOST IMPORTANT POLL RELEASED IN THE LAST 20 YEARS CAME OUT YESTERDAY STATING THAT 20% OF THE MAIL IN BALLOTS IN THE 2020 PRESIDENTIAL ELECTION WERE RIGGED OR DEFECTIVE. THAT MEANS THAT THE ELECTION WAS A GIANT SCAM. YOU CANNOT HAVE A FAIR AND HONEST ELECTION AS LONG AS THERE ARE MAIL IN BALLOTS. CHEATING WILL ALWAYS BE PREVALENT. FRANCE, AND MANY COUNTRIES, HAVE STOPPED THE MADNESS. THE REPUBLICAN PARTY MUST DO SOMETHING NOW!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111574530684790185" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111574530684790185" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 12, 2020  12:10</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @TrumpWarRoom: The liberal media says voter fraud doesn&#x27;t happen. They&#x27;re lying.  Someone used the identities of dead people to vote in the presidential election. Here&#x27;s the proof. https://t.co/iFLWvfUvIE&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1326739008597209089" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1326739008597209089" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 03, 2020  07:41</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Mail-In Ballots will lead to massive electoral fraud and a rigged 2020 Election. Look at all of the cases and examples that are out there right now</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1278836342609379328" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1278836342609379328" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 19, 2022  14:06</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT @dbonginoLibs are melting down over the hard evidence of election fraud presented in 2000 Mules. They got caught, they know it, and they want to cheat again. No more ballot boxes!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_108328988715489337" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/108328988715489337" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 27, 2020  04:51</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The 2020 Election will be totally rigged if Mail-In Voting is allowed to take place</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1287490820669616128" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1287490820669616128" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 04, 2018  19:02</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Many mostly Democrat States refused to hand over data from the 2016 Election to the Commission On Voter Fraud. They fought hard that the Commission not see their records or methods because they know that many people are voting illegally. System is rigged</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_948872192284155904" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/948872192284155904" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 01, 2022  18:00</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Here we go again! Rigged Election! https://justthenews.com/politics-policy/elections/brewing-election-integrity-storm-pa-over-250k-ballots-sent-voters</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109269853202681557" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109269853202681557" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 22, 2023  00:22</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">SCAM-ALERT: 20% of Mail-in Ballots were Rigged of Defective in the 2020 Election…</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111621212798356641" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111621212798356641" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 27, 2020  09:03</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Rigged Election</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1287554056727040008" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1287554056727040008" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 29, 2020  00:44</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;So ridiculous to see Twitter trying to make the case that Mail-In Ballots are not subject to FRAUD. How stupid</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1266047584038256640" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1266047584038256640" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 17, 2020  19:36</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Because of the new and unprecedented massive amount of unsolicited ballots which will be sent to “voters”</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1306557587375128576" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1306557587375128576" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 04, 2024  18:17</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Do your part to guarantee we win by more than the Margin of Fraud by casting your VOTE and taking responsibility for ensuring every Republican and Trump VOTER in your household casts theirs too!Go to https://swampthevoteusa.com/ to…✅Request a Ballot. ✅Check Voter Registration. ✅Pledge to Vote Early In-Person. ✅Pledge to Vote on Election Day.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113080653435408684" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113080653435408684" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 22, 2020  19:16</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RIGGED 2020 ELECTION: MILLIONS OF MAIL-IN BALLOTS WILL BE PRINTED BY FOREIGN COUNTRIES</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1275024974579982336" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1275024974579982336" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 08, 2023  14:35</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">New Poll Numbers after the last Fake Indictment (ELECTION INTERFERENCE)!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_110854493317037860" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/110854493317037860" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2021">
+  <div class="avatar" style="background-image:url(../assets/avatars/2021.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 03, 2021  23:22</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @SidneyPowell1: This “election” was stolen from the voters in a massive fraud that you &amp;amp; others are now complicit in. American elections are supposed to be completely auditable and transparent.  #WeThePeople demand the Truth &amp;amp; the prosecutions of all who committed voter fraud.  @realDonaldTrump https://t.co/Gd4vNmGxHV&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1345752303085760512" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1345752303085760512" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 25, 2020  21:49</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;For our Country to be sending 80 million UNSOLICITED BALLOTS is very unfair and a roadmap to disaster. Even recent small and easier to control elections which did this are a catastrophic disaster. Fraudulent &amp;amp; missing Ballots like never seen before. 20% and 30% off. STOP!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1298256297431666688" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1298256297431666688" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 10, 2020  19:51</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....Absentee Ballots are fine because you have to go through a precise process to get your voting privilege. Not so with Mail-Ins. Rigged Election!!! 20% fraudulent ballots?&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1281556758457188352" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1281556758457188352" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 31, 2023  13:16</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">…Republicans have been, you know, tooting the horn on for years.’ Perhaps most notably, in a December 2020 appearance on Fox, discussing election-integrity efforts in the upcoming Senate runoffs in Georgia, she said: ‘The Georgia Republican Party has . . . efforts underway to ensure that we have signature verification, that we have poll watchers. But what we’re really trying to convey to voters — and listen, understanding that millions of Americans have concerns about irregularities and fraud that we saw in the 2020 elections — what we’re conveying to Georgia voters, is that if you . . . don’t want a rigged election, you absolutely have to get out and vote.’ …</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111675215943727378" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111675215943727378" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 10, 2020  20:54</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Sending out 80 MILLION BALLOTS to people who aren’t even asking for a Ballot is unfair and a total fraud in the making. Look at what’s going on right now!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1304040627332689920" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1304040627332689920" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 14, 2020  06:15</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;...Tens of millions of haphazardly ballots sent</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1338246164756520961" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1338246164756520961" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 30, 2020  06:28</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;New York Mail-In voting is in a disastrous state of condition. Votes from many weeks ago are missing - a total mess. They have no idea what is going on. Rigged Election. I told you so. Same thing would happen</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1288602262567153664" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1288602262567153664" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 05, 2020  11:03</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @TeamTrump: Mail-In Ballots will lead to MASSIVE electoral fraud and a RIGGED 2020 Election.  We cannot let it happen! https://t.co/0NqDejR6cX&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1279611869515440129" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1279611869515440129" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 21, 2018  08:36</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;All levels of government and Law Enforcement are watching carefully for VOTER FRAUD</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #7A3030">Crime &amp; Law Enforcement</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1053807130120200192" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1053807130120200192" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 02, 2020  17:58</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The Unsolicited Ballots Scam is their only hope. Will be the most corrupt election in history</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1301097177054359552" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1301097177054359552" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 15, 2020  07:07</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;There is tremendous evidence of wide spread voter fraud in that there is irrefutable proof that our Republican poll watchers and observers were not allowed to be present in poll counting rooms. Michigan</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1327750127679889409" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1327750127679889409" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 26, 2020  07:17</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;There is NO WAY (ZERO!) that Mail-In Ballots will be anything less than substantially fraudulent. Mail boxes will be robbed</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1265255835124539392" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1265255835124539392" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 11, 2020  21:15</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @realDonaldTrump: Mail-In Ballot fraud found in many elections. People are just now seeing how bad</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1281940084460343298" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1281940084460343298" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 21, 2020  21:15</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Massive voter fraud will be shown! https://t.co/F0iGNXtXZP&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #3F5F7F">Media</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1330137741078695939" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1330137741078695939" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 25, 2020  08:31</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Cheating on Unsolicited Ballots by political hacks</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1309289455535050752" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1309289455535050752" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #6B3F72" data-theme="elections" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 14, 2022  15:46</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Just another Giant Election Scam. Wake up America!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109342936804009360" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109342936804009360" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+</div>
+
+::: {.seal-divider}
+![](../assets/seal.svg){width=60}
+:::
+
+[← Back to all topics](../themes.qmd){.small-caps}

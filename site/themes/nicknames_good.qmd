@@ -1,0 +1,607 @@
+---
+title: "Good Nicknames"
+subtitle: "587 posts where this was the primary topic."
+---
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+  h1 { border-bottom-color: #C9A961 !important; }
+</style>
+
+
+<div id="theme-volume" class="volume-chart"></div>
+<script>
+  (function () {
+    var d = [{ x: ["2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], y: [1, 2, 8, 22, 57, 38, 46, 20, 24, 34, 65, 76, 2, 32, 60, 60, 31, 9],
+                type: "bar", marker: { color: "#C9A961" } }];
+    var l = {
+      margin: { t: 10, r: 10, b: 35, l: 40 },
+      paper_bgcolor: "rgba(0,0,0,0)",
+      plot_bgcolor: "rgba(0,0,0,0)",
+      xaxis: { tickfont: { family: "Libre Franklin" } },
+      yaxis: { tickfont: { family: "Libre Franklin" } },
+      height: 260, showlegend: false
+    };
+    Plotly.newPlot("theme-volume", d, l, {displayModeBar: false, responsive: true});
+  })();
+</script>
+
+
+<p class="small-caps">Recurring phrases</p>
+<span class='chip' style='--chip-color:#C9A961'>will never</span>, <span class='chip' style='--chip-color:#C9A961'>men women</span>, <span class='chip' style='--chip-color:#C9A961'>silent majority</span>, <span class='chip' style='--chip-color:#C9A961'>united states</span>, <span class='chip' style='--chip-color:#C9A961'>years ago</span>, <span class='chip' style='--chip-color:#C9A961'>america first</span>, <span class='chip' style='--chip-color:#C9A961'>https www</span>, <span class='chip' style='--chip-color:#C9A961'>great again</span>, <span class='chip' style='--chip-color:#C9A961'>complete total</span>, <span class='chip' style='--chip-color:#C9A961'>make america</span>, <span class='chip' style='--chip-color:#C9A961'>than four</span>, <span class='chip' style='--chip-color:#C9A961'>four years</span>, <span class='chip' style='--chip-color:#C9A961'>great patriots</span>, <span class='chip' style='--chip-color:#C9A961'>total endorsement</span>, <span class='chip' style='--chip-color:#C9A961'>never let</span>
+
+
+::: {.muted}
+Showing the top 40 posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
+:::
+
+<div class="post-stream">
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 01, 2023  22:14</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">The GREAT SILENT MAJORITY is rising like never before…and under our leadership the forgotten man and woman, will be forgotten no longer…</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6B3F72">Elections &amp; Voting</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111162062555874620" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111162062555874620" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 20, 2017  11:54</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The forgotten men and women of our country will be forgotten no longer. From this moment on</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_822502450007515137" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/822502450007515137" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 16, 2023  19:20</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">The Great Silent Majority is rising like never before—and under our leadership, the Forgotten Man and Woman Will Be Forgotten No Longer! With your help, your love, and your vote, we will put AMERICA FIRST, and WE WILL MAKE AMERICA GREAT AGAIN!https://www.donaldjtrump.com/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6B3F72">Elections &amp; Voting</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_110725381186085579" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/110725381186085579" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 07, 2024  03:29</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">The Great Silent Majority is rising like never before—and under our leadership, the Forgotten Man and Woman Will Be Forgotten No Longer! We will LOVE our Country. We will TAKE CARE of our Country. We will pray to God for our strength and for our liberty—We will pray for God, and we will be with God!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6B3F72">Elections &amp; Voting</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111712545345494367" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111712545345494367" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 21, 2024  20:01</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">GREAT AMERICAN PATRIOTS!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111795717291650900" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111795717291650900" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 07, 2024  06:44</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT @realDonaldTrumpThe Great Silent Majority is rising like never before—and under our leadership, the Forgotten Man and Woman Will Be Forgotten No Longer! We will LOVE our Country. We will TAKE CARE of our Country. We will pray to God for our strength and for our liberty—We will pray for God, and we will be with God!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111713312104108935" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111713312104108935" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 03, 2023  17:26</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">I love these great patriots and their families!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111002385462435683" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111002385462435683" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 02, 2022  21:57</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">THE SILENT MAJORITY IS BACK!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #3F5F7F">Media</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109100916029893718" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109100916029893718" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 24, 2020  06:04</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;THANK YOU to all of the Great American Patriots in The Villages</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #5E7A4C">Golf, Mar-a-Lago &amp; Lifestyle</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1319761576996573186" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1319761576996573186" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 24, 2026  04:19</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Great Patriots!!! President DJT</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_116457756634688413" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/116457756634688413" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2014">
+  <div class="avatar" style="background-image:url(../assets/avatars/2014.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 23, 2014  12:48</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Remember our brave men &amp; women who have fallen protecting our country this Memorial Day!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_469897688927207424" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/469897688927207424" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 11, 2023  13:02</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">WE WILL NEVER FORGET!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_111046645697301790" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/111046645697301790" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 11, 2024  17:22</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">WE WILL NEVER FORGET!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113120072242712443" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113120072242712443" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 22, 2022  16:14</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">TWO GREAT PATRIOTS! https://www.washingtontimes.com/news/2022/may/19/america-first-is-america-at-its-best/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_108346477478848393" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/108346477478848393" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 07, 2018  21:00</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;“The Great Revolt” by Salena Zito and Brad Todd does much to tell the story of our great Election victory. The Forgotten Men &amp;amp; Women are forgotten no longer!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_993475610377932801" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/993475610377932801" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 31, 2024  02:08</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Kamala and Joe call us all garbage. I call you the HEART and SOUL of AMERICA!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113399594515681174" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113399594515681174" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 11, 2025  16:02</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">This morning, we recall the light of America&#x27;s best and bravest and the love they showed in their final moments. In their memory, we make a solemn pledge and a noble promise: we will honor — always — our GREAT HEROES…</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115186503899309206" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115186503899309206" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 31, 2024  21:21</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT @TeamTrumpPRESIDENT TRUMP: Kamala has spent the final week of her failing campaign comparing her political opponents to the most evil mass murderers in history... Joe Biden called our supporters “GARBAGE.” ...You can’t LEAD America if you don’t LOVE Americans.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B1E3F">Bad Nicknames</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113404129454131397" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113404129454131397" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 20, 2025  04:52</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT @TeamTrumpThe sacrifice of these American heroes must never be forgotten — and will never be forgotten.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113858887611739292" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113858887611739292" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 08, 2024  19:56</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">….To make clear our commitment, we offer to the American People our plan to restore our Country to Greatness - It will be approved next week at the GOP Convention. The Forgotten Men and Women of this Country will be forgotten no longer. MAGA!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_112752631378869022" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/112752631378869022" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 04, 2015  23:29</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;For all of my fantastic supporters</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_650890641975734272" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/650890641975734272" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 27, 2025  00:39</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Throughout historyâstrong, tough, visionary women defended our flags, strengthened our communities, explored new frontiers, &amp;amp; expanded the American dream...Patriotic American women like those in this room are helping lead our nation into the Golden Age.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114231606967578813" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114231606967578813" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 19, 2024  19:45</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">To all of the forgotten men and women who have been neglected, abandoned, and left behind, you will be forgotten no longer. We will press forward, and together, we will WIN, WIN, WIN! Nothing will sway us. Nothing will slow us, and no one will stop us. No matter what dangers come our way, no matter what obstacles lie in our path, we will keep striving toward our shared and glorious destiny—and WE WILL NOT FAIL!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #7A3030">Crime &amp; Law Enforcement</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_112814873269823820" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/112814873269823820" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 17, 2019  11:42</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;We are all united by the same love of Country</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1173804280190390272" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1173804280190390272" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 25, 2023  11:57</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">RT: https://truthsocial.com/users/DiamondandSilk/statuses/110600813990643595Two GREAT women. One in Heaven, the other, Silk, still with us and going STRONG. Thank you Silk. Everybody loves you!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #5E7A4C">Golf, Mar-a-Lago &amp; Lifestyle</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_110604732198909716" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/110604732198909716" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 24, 2025  15:49</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">WHAT BIDEN DID TO THIS COUNTRY SHOULD NEVER BE FORGOTTEN!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #B08030">Energy</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114739128116733021" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114739128116733021" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 18, 2022  13:19</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Republicans and Patriots all over the land must stand strong and united against the Thugs and Scoundrels of the Unselect Committee. It will be a dark period in American history, but with darkness comes light!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #7A3030">Crime &amp; Law Enforcement</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_109534875695974285" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/109534875695974285" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 25, 2017  03:32</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Courageous Patriots have fought and died for our great American Flag --- we MUST honor and respect it!  MAKE AMERICA GREAT AGAIN!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_912037003923005440" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/912037003923005440" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2023">
+  <div class="avatar" style="background-image:url(../assets/avatars/2023.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 30, 2023  18:31</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Every young American deserves to know that they are the heirs to an incredible History!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_110979991633752127" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/110979991633752127" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 27, 2016  21:17</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;My supporters are the best! $18 million from hard-working people who KNOW what we can be again! Shatter the record:http://bit.ly/shatterrecords&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_780954455504199680" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/780954455504199680" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2015">
+  <div class="avatar" style="background-image:url(../assets/avatars/2015.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 23, 2015  08:40</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The silent majority- is silent no more! Remember the importance of VOTING! # MakeAmericaGreatAgain # Trump2016pic.twitter.com/wBdSg5ab25&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6B3F72">Elections &amp; Voting</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_679673029400641536" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/679673029400641536" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 04, 2018  07:52</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tonight we gathered to celebrate the courageous men and women who make freedom possible: our brave service members</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1014295751814533120" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1014295751814533120" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2022">
+  <div class="avatar" style="background-image:url(../assets/avatars/2022.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 05, 2022  12:17</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">So they riffled through the living quarters of my 16 year old son, Barron, and the loved and respected former First Lady of the United States, Melania, but, despite proven high crimes and treason, and just plain common theft, all pointed out in the Laptop from Hell (and elsewhere), they never Raided or Broke Into the house of Hunter Biden or, perhaps even more importantly, the house of Joe Biden - A treasure trove! This is a Country that’s unfair and broken. We are truly a Nation in Decline!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #5D3A5D">Courts, Judges &amp; Legal Cases</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_108945753521845976" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/108945753521845976" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 25, 2018  01:56</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Americans stand with you and all of Canada</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_988839027209097217" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/988839027209097217" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 09, 2016  05:36</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Such a beautiful and important evening! The forgotten man and woman will never be forgotten again. We will all come together as never before&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #5E7A4C">Golf, Mar-a-Lago &amp; Lifestyle</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_796315640307060738" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/796315640307060738" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2016">
+  <div class="avatar" style="background-image:url(../assets/avatars/2016.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 18, 2016  16:35</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Will be working all weekend in choosing the great men and women who will be helping to MAKE AMERICA GREAT AGAIN!&quot;</div>
+  <div class="chips"><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_799742847310319616" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/799742847310319616" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 06, 2019  00:51</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;The First Lady and I join all Americans in praying and grieving for the victims</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #6E4C7A">Personal &amp; Family</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1158420246119768064" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1158420246119768064" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2020">
+  <div class="avatar" style="background-image:url(../assets/avatars/2020.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 09, 2020  00:21</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;THE SILENT MAJORITY IS STRONGER THAN EVER</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1280899723071815680" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1280899723071815680" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 10, 2018  18:59</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Thank you to all of my great supporters</div>
+  <div class="chips"><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1016638035281219584" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1016638035281219584" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #C9A961" data-theme="nicknames_good" data-year="2017">
+  <div class="avatar" style="background-image:url(../assets/avatars/2017.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 29, 2017  20:11</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Honoring the men and women who made the ultimate sacrifice in service to America. Home of the free</div>
+  <div class="chips"><span class="chip" style="--chip-color: #4A5C3A">Military &amp; Veterans</span><span class="chip" style="--chip-color: #8B5E2A">Rallies &amp; Campaign</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_869164414662049793" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/869164414662049793" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+</div>
+
+::: {.seal-divider}
+![](../assets/seal.svg){width=60}
+:::
+
+[← Back to all topics](../themes.qmd){.small-caps}

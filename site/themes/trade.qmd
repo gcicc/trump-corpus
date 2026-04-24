@@ -1,0 +1,607 @@
+---
+title: "Trade &amp; Tariffs"
+subtitle: "810 posts where this was the primary topic."
+---
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+  h1 { border-bottom-color: #997A2E !important; }
+</style>
+
+
+<div id="theme-volume" class="volume-chart"></div>
+<script>
+  (function () {
+    var d = [{ x: ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2022", "2023", "2024", "2025", "2026"], y: [2, 16, 50, 32, 35, 40, 9, 29, 85, 99, 43, 10, 34, 48, 237, 41],
+                type: "bar", marker: { color: "#997A2E" } }];
+    var l = {
+      margin: { t: 10, r: 10, b: 35, l: 40 },
+      paper_bgcolor: "rgba(0,0,0,0)",
+      plot_bgcolor: "rgba(0,0,0,0)",
+      xaxis: { tickfont: { family: "Libre Franklin" } },
+      yaxis: { tickfont: { family: "Libre Franklin" } },
+      height: 260, showlegend: false
+    };
+    Plotly.newPlot("theme-volume", d, l, {displayModeBar: false, responsive: true});
+  })();
+</script>
+
+
+<p class="small-caps">Recurring phrases</p>
+<span class='chip' style='--chip-color:#997A2E'>united states</span>, <span class='chip' style='--chip-color:#997A2E'>https www</span>, <span class='chip' style='--chip-color:#997A2E'>states america</span>, <span class='chip' style='--chip-color:#997A2E'>thank attention</span>, <span class='chip' style='--chip-color:#997A2E'>attention matter</span>, <span class='chip' style='--chip-color:#997A2E'>other countries</span>, <span class='chip' style='--chip-color:#997A2E'>trade deals</span>, <span class='chip' style='--chip-color:#997A2E'>national security</span>, <span class='chip' style='--chip-color:#997A2E'>supreme court</span>, <span class='chip' style='--chip-color:#997A2E'>donald trump</span>, <span class='chip' style='--chip-color:#997A2E'>european union</span>, <span class='chip' style='--chip-color:#997A2E'>great again</span>, <span class='chip' style='--chip-color:#997A2E'>make america</span>, <span class='chip' style='--chip-color:#997A2E'>america great</span>, <span class='chip' style='--chip-color:#997A2E'>president donald</span>
+
+
+::: {.muted}
+Showing the top 40 posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
+:::
+
+<div class="post-stream">
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 24, 2018  19:29</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tariffs are the greatest! Either a country which has treated the United States unfairly on Trade negotiates a fair deal</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1021719098265362432" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1021719098265362432" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 11, 2025  12:08</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tariffs are making our Country Strong and Rich!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115010049469121326" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115010049469121326" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 05, 2018  03:58</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....Tariffs will make our country much richer than it is today. Only fools would disagree. We are using them to negotiate fair trade deals and</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1025833273191264256" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1025833273191264256" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Sep 17, 2018  18:11</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tariffs have put the U.S. in a very strong bargaining position</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1041630722413527040" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1041630722413527040" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 02, 2026  14:22</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tariffs are an overwhelming benefit to our Nation, as they have been incredible for our National Security and Prosperity (like nobody has ever seen before!). Losing our ability to Tariff other countries who treat us unfairly would be a terrible blow to the United States of America. Thank you for your attention to this matter! President Donald J. Trump</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115825951172960005" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115825951172960005" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 27, 2025  13:42</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tariffs are creating GREAT WEALTH, and unprecedented National Security for the USA. Trade deficit has been cut by 60%, totally unheard of. 4.3% GDP, and going way up. No inflation!!! We are respected as a Country again.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115791817694825755" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115791817694825755" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 23, 2019  20:23</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....Tariffs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1153641907781873664" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1153641907781873664" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 10, 2019  19:48</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tariffs will make our Country MUCH STRONGER</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1126816259851673601" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1126816259851673601" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 10, 2019  18:53</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tariffs will bring in FAR MORE wealth to our country than even a phenomenal deal of the traditional kind. Also</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1126802544708280320" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1126802544708280320" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 10, 2019  19:46</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tariffs will bring in FAR MORE wealth to our Country than even a phenomenal deal of the traditional kind. Also</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1126815715682656256" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1126815715682656256" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 05, 2018  19:59</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Tariffs are working big time. Every country on earth wants to take wealth out of the U.S.</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1026075214227165185" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1026075214227165185" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2024">
+  <div class="avatar" style="background-image:url(../assets/avatars/2024.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 20, 2024  06:08</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">I told the European Union that they must make up their tremendous deficit with the United States by the large scale purchase of our oil and gas. Otherwise, it is TARIFFS all the way!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113683654440040843" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113683654440040843" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 09, 2025  16:01</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tariffs are only good if you want your Country to be Rich, Influential, and Powerful. If you want your Country to be a Third World Country, you should Vote against Tariffs!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115345041705180674" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115345041705180674" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 04, 2025  15:13</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">IF COMPANIES MOVE TO THE UNITED STATES, THERE ARE NO TARIFFS!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114104810698249053" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114104810698249053" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 15, 2018  23:04</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Our Country was built on Tariffs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1029745594540150784" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1029745594540150784" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; May 11, 2019  07:41</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;RT @realDonaldTrump: Tariffs will bring in FAR MORE wealth to our Country than even a phenomenal deal of the traditional kind. Also</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1126995755301068801" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1126995755301068801" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 07, 2025  11:35</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tariffs are flowing into the USA at levels not thought even possible!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114987271488966063" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114987271488966063" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 05, 2026  14:04</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">We have taken in, and will soon be receiving, more than 600 Billion Dollars in Tariffs, but the Fake News Media refuses to talk about it because they hate and disrespect our Country, and want to interfere with the upcoming Tariff decision, one of the most important ever, of the United States Supreme Court. Because of Tariffs, our Country is financially, AND FROM A NATIONAL SECURITY STANDPOINT, FAR STRONGER AND MORE RESPECTED THAN EVER BEFORE. GOD BLESS AMERICA! President DONALD J. TRUMP</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115842866197248103" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115842866197248103" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 21, 2026  00:04</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Those members of the Supreme Court who voted against our very acceptable and proper method of TARIFFS should be ashamed of themselves. Their decision was ridiculous but, now the adjustment process begins, and we will do everything possible to take in even more money than we were taking in before!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_116105691693335080" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/116105691693335080" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 23, 2025  14:16</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">The TARIFFS are responsible for the GREAT USA Economic Numbers JUST ANNOUNCED…AND THEY WILL ONLY GET BETTER! Also, NO INFLATION &amp; GREAT NATIONAL SECURITY. Pray for the U.S. Supreme Court!!! President DJT</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115769302680506780" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115769302680506780" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 01, 2025  23:21</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">TARIFFS!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_113931196721633756" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/113931196721633756" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 31, 2025  10:28</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Tariffs are making America GREAT &amp; RICH Again. They were successfully used against the USA for decades and, coupled with really dumb, pathetic, and crooked politicians, we&#x27;re having a devastating impact on the future, and even the survival, of our country. Now the tide has completely turned, and America has successfully countered this onslaught of Tariffs used against it. ONE YEAR AGO, AMERICA WAS A DEAD COUNTRY, NOW IT IS THE &quot;HOTTEST&quot;COUNTRY ANYWHERE IN THE WORLD. CONGRATULATIONS TO ALL!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114947373855664074" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114947373855664074" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 24, 2025  11:29</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">THE UNITED STATES IS WEALTHY, POWERFUL, AND NATIONALLY SECURE AGAIN, ALL BECAUSE OF TARIFFS! THE MOST IMPORTANT CASE EVER IS IN THE UNITED STATES SUPREME COURT. GOD BLESS AMERICA!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115428907096790566" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115428907096790566" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 20, 2025  20:05</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">THE BUSINESSMEN WHO CRITICIZE TARIFFS ARE BAD AT BUSINESS, BUT REALLY BAD AT POLITICS. THEY DONâT UNDERSTAND OR REALIZE THAT I AM THE GREATEST FRIEND THAT AMERICAN CAPITALISM HAS EVER HAD!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114372085732582216" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114372085732582216" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 26, 2018  07:42</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Great meeting on Trade today with @JunckerEU and representatives of the European Union. We have come to a very strong understanding and are all believers in no tariffs</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1022265839104483329" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1022265839104483329" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 22, 2025  16:55</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Mary Barra of General Motors, and Bill Ford of Ford Motor Company, just called to thank me for putting Tariffs on Mid Size and Large Size Trucks. Their Stock has gone through the roof! They told me that, without Tariffs, it would be a very hard, long &quot;slog&quot; for Truck and Car Manufacturers in the United States. I told them, it&#x27;s very simple, this is a National Security matter. With the Tariffs, we have a strong and powerful Economy and Country. Without them, we have the exact opposite!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115418866635313882" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115418866635313882" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Aug 30, 2019  21:55</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....We don’t have a Tariff problem (we are reigning in bad and/or unfair players)</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #8C5E2A">Border &amp; Immigration</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1167435724557361152" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1167435724557361152" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Apr 20, 2025  21:12</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Since our announcement of LIBERATION DAY, many World Leaders and Business Executives have come to me asking for relief from Tariffs. Itâs good to see that the World knows we are serious, because WE ARE! They must right the wrongs of decades of abuse, but it wonât be easy for them. We must rebuild the Wealth of our Great Country, and create true RECIPROCITY. But for those who want the easiest path: Come to America, and build in America!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114372350378942829" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114372350378942829" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 12, 2019  20:48</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;....companies to come to the USA and to get companies that have left us for other lands to COME BACK HOME. We  stupidly lost 30% of our auto business to Mexico. If the Tariffs went on at the higher level</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1149661697675681792" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1149661697675681792" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Dec 16, 2025  23:15</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Numbers recently released show that TARIFFS have reduced the Trade Deficit of the United States by more than half. This is larger than anyone, except ME, projected, and will only get stronger in the near future. Everybody should pray that the United States Supreme Court has the Wisdom and Genius to allow Tariffs to GUARD our National Security, and our Financial Freedom! There are Evil, America hating Forces against us. We can not let them prevail. Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115731785428395132" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115731785428395132" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2019">
+  <div class="avatar" style="background-image:url(../assets/avatars/2019.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jun 11, 2019  21:12</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;...Companies to come to the U.S.A and to get companies that have left us for other lands to come back home. We stupidly lost 30% of our auto business to Mexico. If the Tariffs went on at the higher level</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1138433774327410688" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1138433774327410688" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Oct 24, 2025  11:31</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">THE STOCK MARKET IS STRONGER THAN EVER BEFORE BECAUSE OF TARIFFS!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115428915165145135" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115428915165145135" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 09, 2025  13:22</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">So, let&#x27;s get this straight??? The President of the United States is allowed (and fully approved by Congress!) to stop ALL TRADE with a Foreign Country (Which is far more onerous than a Tariff!), and LICENSE a Foreign Country, but is not allowed to put a simple Tariff on a Foreign Country, even for purposes of NATIONAL SECURITY. That is NOT what our great Founders had in mind! The whole thing is ridiculous! Other Countries can Tariff us, but we can&#x27;t Tariff them??? It is their DREAM!!! Businesses are pouring into the USA ONLY BECAUSE OF TARIFFS. HAS THE UNITED STATES SUPREME COURT NOT BEEN TOLD THIS??? WHAT THE HELL IS GOING ON???President DJT</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115519951705472870" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115519951705472870" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 14, 2025  20:36</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">“Trump orders reciprocal tariffs on countries treating US imports unfairly — with EU, India, Japan in crosshairs” https://nypost.com/2025/02/13/us-news/trump-orders-reciprocal-tariffs-with-eu-india-japan-in-crosshairs/</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114004158227642314" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114004158227642314" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Nov 09, 2025  12:25</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">People that are against Tariffs are FOOLS! We are now the Richest, Most Respected Country In the World, With Almost No Inflation, and A Record Stock Market Price. 401k&#x27;s are Highest EVER. We are taking in Trillions of Dollars and will soon begin paying down our ENORMOUS DEBT, $37 Trillion. Record Investment in the USA, plants and factories going up all over the place. A dividend of at least $2000 a person (not including high income people!) will be paid to everyone</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115519726463094783" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115519726463094783" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 11, 2026  23:16</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">Any Republican, in the House or the Senate, that votes against TARIFFS will seriously suffer the consequences come Election time, and that includes Primaries! Our Trade Deficit has been reduced by 78%, the Dow Jones has just hit 50,000, and the S&amp;P, 7,000, all Numbers that were considered IMPOSSIBLE just one year ago. In addition, TARIFFS have given us Great National Security because the mere mention of the word has Countries agreeing to our strongest wishes. TARIFFS have given us Economic and National Security, and no Republican should be responsible for destroying this privilege. PRESIDENT DONALD J. TRUMP</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_116054542648712986" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/116054542648712986" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2018">
+  <div class="avatar" style="background-image:url(../assets/avatars/2018.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jul 24, 2018  19:09</span>
+    <span class="platform">Twitter</span>
+  </div>
+  <div class="text">&quot;Countries that have treated us unfairly on trade for years are all coming to Washington to negotiate. This should have taken place many years ago but</div>
+  <div class="chips"><span class="chip" style="--chip-color: #415B6F">Foreign Policy</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="tw_1021713905020817413" disabled>Read aloud</button></span>
+    <span><a href="https://twitter.com/realDonaldTrump/status/1021713905020817413" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Mar 07, 2025  14:58</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">The head of the United Autoworkers of America just stated that TARIFFS ARE NECESSARY to correct years of abuse of the USA by other countries and companies. We have lost 90,000 factories and plants since the beginning of NAFTA. HE IS 100% CORRECT!!!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2F5F5F">Jobs &amp; Manufacturing</span><span class="chip" style="--chip-color: #B08030">Energy</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114121736384220932" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114121736384220932" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2026">
+  <div class="avatar" style="background-image:url(../assets/avatars/2026.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Jan 06, 2026  13:13</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">The USA markets just hit another ALL TIME HIGH - ALL OF THEM!!! THANK YOU YOU MISTER TARIFF!!! PRAY THAT THE UNITED STATES SUPREME COURT ALLOWS OUR COUNTRY TO CONTINUE ITS UNPRECEDENTED MARCH TOWARD UNPARALLELED GREATNESS! BOTH OUR NATIONAL AND FINANCIAL SECURITY HAVE NEVER BEEN STRONGER!</div>
+  <div class="chips"><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span><span class="chip" style="--chip-color: #A63D2A">China</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_115848329193521599" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/115848329193521599" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+<article class="post-card" style="--theme-color: #997A2E" data-theme="trade" data-year="2025">
+  <div class="avatar" style="background-image:url(../assets/avatars/2025.jpg)"></div>
+  <div class="meta">
+    <span><span class="handle">@realDonaldTrump</span> &middot; Feb 14, 2025  20:35</span>
+    <span class="platform">Truth Social</span>
+  </div>
+  <div class="text">“Trump announces boldest tariff plan in more than a century: &#x27;This is the big one&#x27;” https://www.dailymail.co.uk/news/article-14394937/Trump-reciprocal-tariffs-trade-unfair.html</div>
+  <div class="chips"><span class="chip" style="--chip-color: #A63D2A">China</span><span class="chip" style="--chip-color: #2E6F40">Economy &amp; Stock Market</span></div>
+  <div class="meta" style="margin-top:0.5em;">
+    <span><button class="read-aloud" data-post-id="ts_114004152174148558" disabled>Read aloud</button></span>
+    <span><a href="https://truthsocial.com/@realDonaldTrump/114004152174148558" target="_blank" rel="noopener">permalink</a></span>
+  </div>
+</article>
+
+</div>
+
+::: {.seal-divider}
+![](../assets/seal.svg){width=60}
+:::
+
+[← Back to all topics](../themes.qmd){.small-caps}

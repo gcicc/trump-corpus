@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/**
+    - data/**
+    - audio/**
+
+website:
+  title: "Donald Trump — In His Own Words"
+  description: "A curated archive of Donald Trump's public messaging across Twitter, Truth Social, and public speeches — searchable by time and by topic."
+  site-url: https://gcicc.github.io/trump-corpus/
+  navbar:
+    background: "#0A2540"
+    foreground: "#F4ECD8"
+    logo: assets/seal.svg
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "By Topic"
+        href: themes.qmd
+      - text: "By Time"
+        href: timeline.qmd
+      - text: "Map"
+        href: map.qmd
+      - text: "About"
+        href: about.qmd
+  page-footer:
+    background: "#0A2540"
+    foreground: "#F4ECD8"
+    left: "A personal archive project — text from public sources, aggregated for family reading."
+    right: "© 2026"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    fontsize: 1.05rem
+    linestretch: 1.55
+    link-external-icon: false
+    link-external-newwindow: true
+    highlight-style: github
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Libre+Franklin:wght@400;600;800&display=swap" rel="stylesheet">
+    include-after-body:
+      - file: assets/audio.js.html
+
+execute:
+  freeze: auto
