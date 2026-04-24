@@ -38,6 +38,8 @@ format:
     toc: true
     toc-depth: 3
     toc-location: right
+    anchor-sections: false
+    smooth-scroll: true
     fontsize: 1.05rem
     linestretch: 1.55
     link-external-icon: false

@@ -53,6 +53,12 @@ def _post_card_html(
     *,
     with_avatar_year: int | None = None,
 ) -> str:
+    """Return a single post card as a flat (no-leading-whitespace) HTML string.
+
+    The flat layout matters: Quarto/Pandoc interprets indented lines inside an
+    HTML block as Markdown code blocks, which wraps spans in <code>. Keep
+    everything on one logical line per element and no leading whitespace.
+    """
     t = theme_by_slug(primary_theme)
     text = _esc(post["text"])
     ts = _fmt_ts(post.get("timestamp_utc"))
@@ -83,23 +89,21 @@ def _post_card_html(
         f'Read aloud</button>'
     )
 
-    permalink = f'<a href="{_esc(url)}" target="_blank" rel="noopener">permalink</a>' if url else ""
+    permalink = (
+        f'<a href="{_esc(url)}" target="_blank" rel="noopener">permalink</a>' if url else ""
+    )
 
-    return f"""
-<article class="post-card" style="--theme-color: {t.color}" data-theme="{primary_theme}" data-year="{(post.get("timestamp_utc") or "")[:4]}">
-  {avatar_html}
-  <div class="meta">
-    <span><span class="handle">@{handle}</span> &middot; {ts}</span>
-    <span class="platform">{platform}</span>
-  </div>
-  <div class="text">{text}</div>
-  {chip_html}
-  <div class="meta" style="margin-top:0.5em;">
-    <span>{audio_btn}</span>
-    <span>{permalink}</span>
-  </div>
-</article>
-"""
+    year = (post.get("timestamp_utc") or "")[:4]
+    parts = [
+        f'<article class="post-card" style="--theme-color: {t.color}" data-theme="{primary_theme}" data-year="{year}">',
+        avatar_html,
+        f'<div class="meta"><span><span class="handle">@{handle}</span> &middot; {ts}</span><span class="platform">{platform}</span></div>',
+        f'<div class="text">{text}</div>',
+        chip_html,
+        f'<div class="meta" style="margin-top:0.5em;"><span>{audio_btn}</span><span>{permalink}</span></div>',
+        "</article>",
+    ]
+    return "".join(p for p in parts if p)
 
 
 # ---------- data loaders ----------
@@ -196,28 +200,31 @@ def render_themes_grid(conn: sqlite3.Connection) -> None:
         ).fetchall()
     )
 
-    parts = ['<div class="theme-grid">']
+    cards = []
     for t in THEMES:
         n = counts.get(t.slug, 0)
-        parts.append(
-            f"""
-<a class="theme-card" href="themes/{t.slug}.html" style="--theme-color: {t.color}">
-  <h3>{_esc(t.label)}</h3>
-  <div class="n">{n:,} posts</div>
-  <div class="desc">{_esc(t.description)}</div>
-</a>
-"""
+        cards.append(
+            f'<a class="theme-card" href="themes/{t.slug}.html" '
+            f'style="--theme-color: {t.color}">'
+            f'<h3>{_esc(t.label)}</h3>'
+            f'<div class="n">{n:,} posts</div>'
+            f'<div class="desc">{_esc(t.description)}</div>'
+            f"</a>"
         )
-    parts.append("</div>")
 
-    # Also include general bucket + stats
     n_general = counts.get(GENERAL_THEME.slug, 0)
     total = sum(counts.values())
-    parts.append(
+
+    html_block = (
+        "```{=html}\n"
+        '<div class="theme-grid">'
+        + "".join(cards)
+        + "</div>"
         f'<p class="muted">Uncategorized: {n_general:,} posts. Total assigned: {total:,}.</p>'
+        "\n```\n"
     )
 
-    (SITE_DIR / "_themes_grid.qmd").write_text("\n".join(parts), encoding="utf-8")
+    (SITE_DIR / "_themes_grid.qmd").write_text(html_block, encoding="utf-8")
 
 
 def render_theme_page(conn: sqlite3.Connection, theme: Theme, limit: int = 40) -> None:
@@ -269,9 +276,20 @@ def render_theme_page(conn: sqlite3.Connection, theme: Theme, limit: int = 40) -
             + "\n"
         )
 
+    # Wrap the stream in a raw-HTML fence so Pandoc doesn't try to interpret
+    # the cards (which have internal spans, divs, etc.) as Markdown.
+    stream_block = (
+        "```{=html}\n"
+        + f'<div class="post-stream">'
+        + "".join(cards_html)
+        + "</div>"
+        + "\n```\n"
+    )
+
     body = f"""---
 title: "{_esc(theme.label)}"
 subtitle: "{total:,} posts where this was the primary topic."
+anchor-sections: false
 ---
 
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
@@ -288,9 +306,7 @@ subtitle: "{total:,} posts where this was the primary topic."
 Showing the top {len(cards_html)} posts ranked by how clearly they match this theme. Other secondary themes for each post are shown as chips.
 :::
 
-<div class="post-stream">
-{''.join(cards_html)}
-</div>
+{stream_block}
 
 ::: {{.seal-divider}}
 ![](../assets/seal.svg){{width=60}}
@@ -308,11 +324,9 @@ def render_timeline_ribbon(conn: sqlite3.Connection) -> None:
             "SELECT DISTINCT substr(timestamp_utc,1,4) y FROM posts WHERE timestamp_utc IS NOT NULL ORDER BY y"
         )
     ]
-    parts = ['<div class="year-ribbon">']
-    for y in years:
-        parts.append(f'<a href="timeline/{y}.html">{y}</a>')
-    parts.append("</div>")
-    (SITE_DIR / "_timeline_ribbon.qmd").write_text("\n".join(parts), encoding="utf-8")
+    inner = "".join(f'<a href="timeline/{y}.html">{y}</a>' for y in years)
+    out = "```{=html}\n" + f'<div class="year-ribbon">{inner}</div>' + "\n```\n"
+    (SITE_DIR / "_timeline_ribbon.qmd").write_text(out, encoding="utf-8")
 
 
 def render_timeline_volume(conn: sqlite3.Connection) -> None:
@@ -405,9 +419,28 @@ def render_year_page(conn: sqlite3.Connection, year: str, limit: int = 300) -> N
             f'<span class="chip on" style="--chip-color: {t.color}" data-theme="{slug}">{_esc(t.label)}</span>'
         )
 
+    # Filter bar + stream wrapped in a single raw-HTML block to avoid Markdown parsing.
+    filter_and_stream = (
+        "```{=html}\n"
+        '<div class="filter-bar">'
+        f'<div class="chips">{" ".join(chip_html)}</div>'
+        '<div class="actions">'
+        '<a onclick="window.trumpFilter.solo()">Show all</a>'
+        '<a onclick="window.trumpFilter.none()">Hide all</a>'
+        '<span class="muted">click a chip to solo &middot; shift-click to hide</span>'
+        "</div>"
+        "</div>"
+        f'<div class="post-stream" id="stream-{year}">'
+        + "".join(cards_html)
+        + "</div>"
+        '<script src="../assets/filter.js"></script>'
+        "\n```\n"
+    )
+
     body = f"""---
 title: "{year}"
 subtitle: "{total_year:,} posts this year. Showing first {len(cards_html)}."
+anchor-sections: false
 ---
 
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
@@ -427,20 +460,7 @@ subtitle: "{total_year:,} posts this year. Showing first {len(cards_html)}."
   }})();
 </script>
 
-<div class="filter-bar">
-  <div class="chips">{' '.join(chip_html)}</div>
-  <div class="actions">
-    <a onclick="window.trumpFilter.solo()">Show all</a>
-    <a onclick="window.trumpFilter.none()">Hide all</a>
-    <span class="muted">click a chip to solo &middot; shift-click to hide</span>
-  </div>
-</div>
-
-<div class="post-stream" id="stream-{year}">
-{''.join(cards_html)}
-</div>
-
-<script src="../assets/filter.js"></script>
+{filter_and_stream}
 
 [← Back to all years](../timeline.qmd){{.small-caps}}
 """

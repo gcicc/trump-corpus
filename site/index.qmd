@@ -2,62 +2,44 @@
 title: ""
 page-layout: full
 toc: false
+anchor-sections: false
 ---
 
-::: {.hero}
-# Donald Trump — In His Own Words
-
+```{=html}
+<div class="hero">
+<h1>Donald Trump — In His Own Words</h1>
 <p class="lede">Eighty-seven thousand posts across Twitter and Truth Social, more than eight hundred speeches and public statements, from 2009 to today. Curated into eighteen recurring topics. Read by year, by topic, or follow the path across the country.</p>
+<div class="stats">
+  <div class="stat"><span class="n">87,146</span><span class="l">posts</span></div>
+  <div class="stat"><span class="n">884</span><span class="l">speeches</span></div>
+  <div class="stat"><span class="n">17</span><span class="l">years</span></div>
+  <div class="stat"><span class="n">18</span><span class="l">topics</span></div>
+</div>
+</div>
 
-::: {.stats}
-::: {.stat}
-[87,146]{.n}
-[posts]{.l}
-:::
-::: {.stat}
-[884]{.n}
-[speeches]{.l}
-:::
-::: {.stat}
-[17]{.n}
-[years]{.l}
-:::
-::: {.stat}
-[18]{.n}
-[topics]{.l}
-:::
-:::
-:::
+<h2 style="margin-top: 2rem;">Browse</h2>
 
-## Browse
+<div class="nav-cards">
+<a class="nav-card" href="themes.html">
+<h3>By Topic</h3>
+<p>Eighteen recurring themes, from the economy to the nicknames. Each theme has its own color, its own timeline, its own voice.</p>
+</a>
+<a class="nav-card" href="timeline.html">
+<h3>By Time</h3>
+<p>Year by year. A post-by-post chronology with a period-appropriate portrait and a sparkline showing how busy that month was.</p>
+</a>
+<a class="nav-card" href="map.html">
+<h3>The Map</h3>
+<p>Every rally and major stop, drawn across the country in chronological order. Press play to follow the journey.</p>
+</a>
+<a class="nav-card" href="about.html">
+<h3>About This Archive</h3>
+<p>Where the data came from, how topics were assigned, why the voice sounds the way it does, what's missing and what's next.</p>
+</a>
+</div>
 
-::: {.nav-cards}
-
-[
-### By Topic
-Eighteen recurring themes, from the economy to the nicknames. Each theme has its own color, its own timeline, its own voice.
-](themes.qmd){.nav-card}
-
-[
-### By Time
-Year by year. A post-by-post chronology with a period-appropriate portrait and a sparkline showing how busy that month was.
-](timeline.qmd){.nav-card}
-
-[
-### The Map
-Every rally and major stop, drawn across the country in chronological order. Press play to follow the journey.
-](map.qmd){.nav-card}
-
-[
-### About This Archive
-Where the data came from, how topics were assigned, why the voice sounds the way it does, what's missing and what's next.
-](about.qmd){.nav-card}
-
-:::
-
-::: {.seal-divider}
-![](assets/seal.svg){width=60}
-:::
+<div class="seal-divider"><img src="assets/seal.svg" width="60" alt=""></div>
+```
 
 ## A note for readers
 
