@@ -1,57 +1,67 @@
-# Session Closeout — trump-corpus
+# Session Closeout — trump-corpus (Phase 1 + Phase 2)
 
 **Date:** 2026-04-24
-**Duration context:** ~2 hour session, Phase 1 build-out
+**Duration:** ~5 hours (scaffold + corpus + topics + site + map + voice + publish)
+
+## Live URLs
+
+- **Site:** https://gcicc.github.io/trump-corpus/
+- **Source:** https://github.com/gcicc/trump-corpus
 
 ## Accomplished
 
-- **Project scaffold**: `pyproject.toml`, SQLite + Parquet storage layout, venv
-  outside Dropbox (Windows file-lock workaround), CLAUDE.md / ACTION-ITEMS.md /
-  tasks/lessons.md per portfolio conventions.
-- **Corpus ingestion** (87,146 posts + 884 speeches):
-  - `@realDonaldTrump` Twitter 2009-2021: **54,306** (MarkHershey archive)
-  - Truth Social 2022→now: **32,789** (CNN ix.cnn.io mirror)
-  - `@POTUS45` Twitter via Wayback CDX: **51** (session cap; ~1250 more queued for overnight refresh)
-  - UCSB American Presidency speeches/EOs/proclamations: **871**
-  - Legacy Miller Center + ryanmcdermott: **13**
-- **Topic discovery**:
-  - 18 curated themes with presidential-palette colors, incl. separate Good/Bad
-    Nicknames bins (replacing a generic "Democrats" theme)
-  - ~60 nickname regex patterns across 40+ targets
-  - Multi-label assignment (top 3 themes per post above 0.25 cos-sim)
-  - 203,043 theme rows; 6,648 nickname hits
-  - MiniLM embeddings saved to `data/processed/embeddings.npy` for later
-    "find similar posts" feature
-- **Docs**: `README.md`, `data/sources.md` (provenance + gaps + citation),
-  `data/processed/summary.md` (live stats), updated `CLAUDE.md`.
-- **Plan**: Approved plan for Phase 2 lives at
-  `C:\Users\gcicc\.claude\plans\swirling-zooming-hammock.md` — covers the
-  Quarto-rendered family site with presidential styling, XTTS-v2 voice,
-  map, year-portrait imagery, two-axis browsing, and topic filtering.
+### Phase 1 — Corpus
+- **87,146 posts** ingested (Twitter 2009-2021: 54,306; Truth Social 2022→present: 32,789; POTUS45 partial: 51)
+- **884 speeches** (UCSB American Presidency: 871; Miller Center + ryanmcdermott: 13)
+- **18 curated themes** with multi-label assignment, including separate Good/Bad Nicknames bins covering 40+ targets
+- **203,043 theme assignments** + **6,648 nickname mentions**
+- MiniLM embeddings saved for later "find similar"
+- Provenance + known gaps fully documented
 
-## Outstanding
+### Phase 2 — Site
+- **Quarto website** with presidential palette (navy/gold/cream)
+- **18 per-topic pages** (color-coded, volume charts, top posts, recurring phrases)
+- **18 per-year pages** (month-volume charts, post stream with period-appropriate portrait)
+- **538-stop rally map** scraped from 4 Wikipedia rally lists + 5 home-base anchors (Trump Tower, White House, Mar-a-Lago, Bedminster), era-colored Leaflet pattern ported from dads80th
+- **18 year-portraits** sourced from Wikimedia Commons (public domain only) with fallback-crops for years lacking PD photos
+- **Sticky filter bar** per year page — click-to-solo, shift-click to hide topics
+- **About page** with data provenance, AI-voice disclosure, and credits
 
-- `@POTUS45` and `@WhiteHouse45` Wayback hydration capped at 100/handle for
-  session; overnight refresh needed to fill the gap (see ACTION-ITEMS).
-- Nitter mirrors all returned 0 posts — retry next refresh; code is in place.
-- UCSB scraper was capped at `max_pages=9` (~900 docs) to finish in-session;
-  bump to 30 for quarterly refresh.
+### Phase 2 — Voice
+- **Coqui XTTS-v2** installed in dedicated Python 3.11 venv
+- **18-second reference clip** extracted from Trump's 2017 inaugural (public domain, US government work)
+- **render_voice.py** batch renderer
+- **~16+ posts pre-rendered** (background render continuing; will reach ~95 when complete)
+- **Browser TTS fallback** for posts without a Trump clone
+
+### Deployment
+- Initial commit + Phase 2 commit pushed to `main`
+- `gh-pages` branch created and populated with rendered site
+- GitHub Pages enabled; site live with HTTPS
+
+## Outstanding (next session)
+
+- **Full-corpus voice render** — currently running in background (~95 posts). For coverage of the "top 500" eager pool, raise `--n 500` and run overnight (estimated 7-10 hrs on CPU).
+- **@POTUS45 / @WhiteHouse45 Wayback hydration** — only 51/19,000 hydrated. Bump `hydrate_cap` in `potus_wayback.ingest` and run overnight.
+- **Post-2022 @realDonaldTrump X** — nitter mirrors all 0 at build time; retry next quarter.
+- **Background imagery** — hero backgrounds (Oval Office, Rose Garden) from whitehouse.gov not yet sourced; using solid navy gradient as placeholder.
+- **Per-post vector search UI** — embeddings.npy exists; client-side cosine-similarity "find similar posts" UI not yet wired.
+- **Filter bar on theme pages** — currently only year pages have it; theme pages could get a year-range slider.
 
 ## Next Action
 
-Start the Phase 2 Quarto site build — scaffold `site/`, pull imagery, clone
-the Trump voice with XTTS-v2, generate theme pages, adapt the dads80th map.
+Run an overnight voice render (`--n 500` + large Wayback hydration). Then rebuild site + republish.
 
 ## Blockers
 
-- None (XTTS-v2 needs a one-time 10-20 sec reference clip; any public Trump
-  speech suffices — not blocking, just a first step next session).
+- None. Everything below is opportunistic enhancement.
 
 ## Portfolio context
 
-- `dads80th/appendices/lifemap.qmd` is the canonical pattern for Phase 2's
-  map — reuse directly.
-- `gmail-organizer` / CORTEX conventions (per global CLAUDE.md) don't apply
-  here — no email delivery in scope.
-- Freeze Gate: portfolio has 3+ projects in Phase 2+, so this new project's
-  existence is consistent with the cross-project rules. No override needed.
+- `dads80th` Leaflet pattern adapted directly into `site/includes/trumpmap.html` — good pattern for future location-based projects.
+- `sentence-transformers` + anchor-based multi-label is fully reusable for other topic-modeling projects that want curated taxonomy over unsupervised BERTopic output.
+- Coqui XTTS-v2 Python 3.11 venv recipe is reusable for any local voice-cloning workflow.
+
+## Refresh cadence
+
+Quarterly. Run `scripts/refresh.py` → `scripts/build_topics.py` → `scripts/build_site.py` → `scripts/render_voice.py` → `quarto publish gh-pages`.

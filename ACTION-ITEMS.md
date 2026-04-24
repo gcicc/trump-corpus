@@ -2,29 +2,45 @@
 
 **Last updated:** 2026-04-24
 
+## Live
+- Site: https://gcicc.github.io/trump-corpus/
+- Repo: https://github.com/gcicc/trump-corpus
+
 ## Blockers (human-only)
 - None
 
 ## To Do
-- [ ] Next session: build Quarto site per approved plan (themes grid, timeline drill-down, dads80th-style map, XTTS-v2 Trump-voice read-aloud, presidential styling, year-portrait imagery) — see `C:\Users\gcicc\.claude\plans\swirling-zooming-hammock.md`
-- [ ] Next session: source presidential/family imagery (Wikimedia Commons PD, whitehouse.gov PD) — one representative portrait per year 2009-2026
-- [ ] Next session: clone Trump voice from a clean public-domain speech clip with Coqui XTTS-v2; pre-render top-500 posts
-- [ ] Quarterly-refresh-only: overnight Wayback hydration of remaining POTUS45 (~1250 more) + WhiteHouse45 (~18k) tweets — bump `hydrate_cap` in `potus_wayback.ingest` and run unattended
-- [ ] Quarterly-refresh-only: rerun UCSB with `max_pages=30` to pick up 2025+ documents we didn't fetch this session (cap was 9 to finish in-session)
-- [ ] Investigate a working nitter mirror for post-2022 @realDonaldTrump tweets; defer to quarterly if still blocked
-- [ ] BERTopic discovery pass to seed "find similar posts" feature (separate from the curated 18-theme assignment)
+- [ ] Overnight: render top-500 Trump-voice MP3s (`python scripts/render_voice.py --n 500`) — currently partial (~95 queued, running when session closed)
+- [ ] Overnight: bump Wayback hydration cap for POTUS45 / WhiteHouse45 (~19k captures remain)
+- [ ] Fetch hero background photos from whitehouse.gov (Oval Office, Rose Garden) — public domain US government works
+- [ ] Wire client-side vector search ("find similar posts") using existing `data/processed/embeddings.npy`
+- [ ] Add year-range slider + keyword search on theme pages
+- [ ] Retry nitter scrape for post-2022 @realDonaldTrump (mirrors were 0 at build time)
+- [ ] Consider fetching `@POTUS` (current admin) tweets via Wayback for the 2025+ era
+- [ ] Scrape ryanmcdermott + Miller Center alternative sources for missing pre-2015 speeches
+- [ ] BERTopic discovery pass for "you might also like" carousel
+- [ ] Add sitemap.xml pings and og:image previews to each page
+- [ ] Consider a `/search` page with faceted filter (topic × year × platform × keyword)
 
-## Done
-- [x] Scaffolded project: pyproject, venv outside Dropbox, SQLite schema, raw/processed layout (completed 2026-04-24)
-- [x] Ingested @realDonaldTrump 2009-2021 Twitter archive (54,306 rows) (completed 2026-04-24)
-- [x] Ingested Truth Social archive (32,789 rows) (completed 2026-04-24)
-- [x] Wayback CDX fetcher for @POTUS45 / @WhiteHouse45 built; 51 POTUS45 rows this session (completed 2026-04-24)
-- [x] Nitter fetcher built for post-2022 @realDonaldTrump; 0 rows (mirrors unreachable at scrape time) (completed 2026-04-24)
-- [x] UCSB American Presidency Project scraper built; 871 speeches/statements/EOs (completed 2026-04-24)
-- [x] Miller Center + ryanmcdermott seed speech sources (13 rows) (completed 2026-04-24)
-- [x] Installed BERTopic + sentence-transformers + plotly (completed 2026-04-24)
-- [x] Built 18-theme curated taxonomy with separate Good/Bad Nicknames bins (completed 2026-04-24)
-- [x] Compiled nickname regex catalog (~60 patterns across 40+ targets) (completed 2026-04-24)
-- [x] Multi-label topic assignment with top-3 + threshold; 203,043 assignments across 87k posts (completed 2026-04-24)
-- [x] Saved MiniLM embeddings to `data/processed/embeddings.npy` for later vector search (completed 2026-04-24)
-- [x] Parquet exports + `summary.md` + `sources.md` provenance doc (completed 2026-04-24)
+## Done (this session, 2026-04-24)
+- [x] Scaffolded project: pyproject, SQLite/Parquet, venv outside Dropbox
+- [x] Ingested 54,306 @realDonaldTrump tweets (2009-2021)
+- [x] Ingested 32,789 Truth Social posts (2022-present)
+- [x] Wayback CDX hydration of 51 POTUS45 tweets (session cap)
+- [x] UCSB American Presidency scraper: 871 speeches/statements/EOs
+- [x] BERTopic + sentence-transformers installed
+- [x] 18-theme curated taxonomy with Good/Bad Nicknames bins
+- [x] 60+ nickname regex patterns across 40+ targets
+- [x] Multi-label topic assignment (203k assignments, 6,648 nickname hits)
+- [x] Saved MiniLM embeddings to data/processed/embeddings.npy
+- [x] Parquet exports + summary.md + sources.md
+- [x] Initial GitHub push (main)
+- [x] Quarto site scaffold (presidential palette, 18 theme pages, 18 year pages)
+- [x] 18 year-portraits fetched from Wikimedia Commons (PD only)
+- [x] 538 rally stops scraped + geocoded from 4 Wikipedia lists
+- [x] dads80th-style map with era-colored markers + Play Journey animation
+- [x] Coqui XTTS-v2 installed (dedicated Python 3.11 venv)
+- [x] 18-second Trump reference clip from 2017 inaugural (public domain)
+- [x] Voice rendering pipeline end-to-end (WAV → MP3 via ffmpeg)
+- [x] Browser TTS fallback for posts lacking a clone
+- [x] gh-pages branch + GitHub Pages enabled → site live
