@@ -35,7 +35,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-8b4baf804e461d9b72633f0de59a0cac.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -68,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&amp;family=Libre+Franklin:wght@400;600;800&amp;display=swap" rel="stylesheet">
@@ -129,45 +129,46 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Donald Trump — In His Own Words</h1></header>
 
 
 
 
-<section id="donald-trump-in-his-own-words" class="level1 hero">
-<h1>Donald Trump — In His Own Words</h1>
-<p class="lede">
-Eighty-seven thousand posts across Twitter and Truth Social, more than eight hundred speeches and public statements, from 2009 to today. Curated into eighteen recurring topics. Read by year, by topic, or follow the path across the country.
-</p>
+<div class="hero">
+
+<p class="lede">Eighty-seven thousand posts across Twitter and Truth Social, more than eight hundred speeches and public statements, from 2009 to today. Curated into eighteen recurring topics. Read by year, by topic, or follow the path across the country.</p>
 <div class="stats">
-<div class="stat">
-<p><span class="n">87,146</span> <span class="l">posts</span></p>
-</div>
-<div class="stat">
-<p><span class="n">884</span> <span class="l">speeches</span></p>
-</div>
-<div class="stat">
-<p><span class="n">17</span> <span class="l">years</span></p>
-</div>
-<div class="stat">
-<p><span class="n">18</span> <span class="l">topics</span></p>
+  <div class="stat"><span class="n">87,146</span><span class="l">posts</span></div>
+  <div class="stat"><span class="n">884</span><span class="l">speeches</span></div>
+  <div class="stat"><span class="n">17</span><span class="l">years</span></div>
+  <div class="stat"><span class="n">18</span><span class="l">topics</span></div>
 </div>
 </div>
-</section>
-<section id="browse" class="level2">
-<h2 class="anchored" data-anchor-id="browse">Browse</h2>
+
+<h2 style="margin-top: 2rem;">Browse</h2>
+
 <div class="nav-cards">
-<p><a href="./themes.html" class="nav-card">### By Topic Eighteen recurring themes, from the economy to the nicknames. Each theme has its own color, its own timeline, its own voice.</a></p>
-<p><a href="./timeline.html" class="nav-card">### By Time Year by year. A post-by-post chronology with a period-appropriate portrait and a sparkline showing how busy that month was.</a></p>
-<p><a href="./map.html" class="nav-card">### The Map Every rally and major stop, drawn across the country in chronological order. Press play to follow the journey.</a></p>
-<p><a href="./about.html" class="nav-card">### About This Archive Where the data came from, how topics were assigned, why the voice sounds the way it does, what’s missing and what’s next.</a></p>
+<a class="nav-card" href="themes.html">
+<h3>By Topic</h3>
+<p>Eighteen recurring themes, from the economy to the nicknames. Each theme has its own color, its own timeline, its own voice.</p>
+</a>
+<a class="nav-card" href="timeline.html">
+<h3>By Time</h3>
+<p>Year by year. A post-by-post chronology with a period-appropriate portrait and a sparkline showing how busy that month was.</p>
+</a>
+<a class="nav-card" href="map.html">
+<h3>The Map</h3>
+<p>Every rally and major stop, drawn across the country in chronological order. Press play to follow the journey.</p>
+</a>
+<a class="nav-card" href="about.html">
+<h3>About This Archive</h3>
+<p>Where the data came from, how topics were assigned, why the voice sounds the way it does, what's missing and what's next.</p>
+</a>
 </div>
-<div class="seal-divider">
-<p><img src="assets/seal.svg" class="img-fluid" width="60"></p>
-</div>
-</section>
+
+<div class="seal-divider"><img src="assets/seal.svg" width="60" alt=""></div>
 <section id="a-note-for-readers" class="level2">
-<h2 class="anchored" data-anchor-id="a-note-for-readers">A note for readers</h2>
+<h2 data-anchor-id="a-note-for-readers">A note for readers</h2>
 <p>These are Donald Trump’s words, not anyone else’s. Every post and every speech here comes from the public record — tweets captured by the Trump Twitter Archive, Truth Social posts mirrored in real time, speeches catalogued by academic archives at UCSB and the Miller Center.</p>
 <p>The only editorial choice we’ve made is <strong>how to organize it</strong>. Eighteen recurring topics, assigned by a small machine-learning model to make long scrolls readable. Each topic has its own color. You can hide the ones you don’t care about and keep the ones you do.</p>
 <p>No commentary. No framing. Just the record.</p>
@@ -178,13 +179,6 @@ Eighty-seven thousand posts across Twitter and Truth Social, more than eight hun
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -665,4 +659,5 @@ Eighty-seven thousand posts across Twitter and Truth Social, more than eight hun
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

@@ -35,7 +35,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-8b4baf804e461d9b72633f0de59a0cac.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -68,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&amp;family=Libre+Franklin:wght@400;600;800&amp;display=swap" rel="stylesheet">
@@ -166,12 +166,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="what-this-is" class="level2">
-<h2 class="anchored" data-anchor-id="what-this-is">What this is</h2>
+<h2 data-anchor-id="what-this-is">What this is</h2>
 <p>A personal archive of Donald Trump’s public messaging — every tweet that survived the Trump Twitter Archive, every Truth Social post mirrored by the CNN feed, every speech and statement catalogued by the UCSB American Presidency Project — aggregated into one searchable collection.</p>
 <p>The intent is <strong>curation, not commentary</strong>. No opinions are added. The only thing this site does beyond hosting the record is group posts into recurring topics so they’re easier to browse.</p>
 </section>
 <section id="whats-in-the-corpus" class="level2">
-<h2 class="anchored" data-anchor-id="whats-in-the-corpus">What’s in the corpus</h2>
+<h2 data-anchor-id="whats-in-the-corpus">What’s in the corpus</h2>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 30%">
@@ -215,18 +215,18 @@ ul.task-list li input[type="checkbox"] {
 </table>
 </section>
 <section id="how-topics-were-assigned" class="level2">
-<h2 class="anchored" data-anchor-id="how-topics-were-assigned">How topics were assigned</h2>
+<h2 data-anchor-id="how-topics-were-assigned">How topics were assigned</h2>
 <p>Each post was embedded with a small open-source language model (<code>sentence-transformers/all-MiniLM-L6-v2</code>, 384-dim). For each of eighteen hand-written “theme anchors” (a set of example sentences on that topic), we computed a centroid in embedding space. Each post gets the top three themes whose centroid is closest to its own embedding, above a cosine-similarity threshold.</p>
 <p>Nicknames — <em>Crooked Hillary, Sleepy Joe, Little Marco, Pocahontas,</em> and about forty more — are matched with a curated regex list and always force inclusion of the Good / Bad Nicknames theme, regardless of what else the post is about.</p>
 <p>All of this runs locally on a CPU, with no external API calls.</p>
 </section>
 <section id="the-read-aloud-voice" class="level2">
-<h2 class="anchored" data-anchor-id="the-read-aloud-voice">The “read aloud” voice</h2>
+<h2 data-anchor-id="the-read-aloud-voice">The “read aloud” voice</h2>
 <p>Where you see a <strong>Read aloud</strong> button, the clip is a voice clone of Donald Trump generated locally from a short reference sample of a public-domain speech. The audio is for this site only — not for redistribution, not downloadable in bulk, not for any commercial purpose. It exists so a reader can hear the posts in something approximating the speaker’s own cadence, which is part of how they came across originally.</p>
 <p>If you’d rather it just use your browser’s built-in voice, click the small <strong>⚙</strong> in the footer to switch.</p>
 </section>
 <section id="known-gaps" class="level2">
-<h2 class="anchored" data-anchor-id="known-gaps">Known gaps</h2>
+<h2 data-anchor-id="known-gaps">Known gaps</h2>
 <ul>
 <li><code>@POTUS45</code> and <code>@WhiteHouse45</code> official-capacity accounts are archived by the National Archives but not available as bulk downloads. We pulled what the Internet Archive’s Wayback Machine had captured. About 19,000 more captures remain to hydrate in a future refresh.</li>
 <li>Post-reinstatement <code>@realDonaldTrump</code> posts (November 2022 onward) are sparse and the public nitter mirrors we rely on were unreachable at build time. We’ll retry quarterly.</li>
@@ -234,11 +234,11 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="refresh-cadence" class="level2">
-<h2 class="anchored" data-anchor-id="refresh-cadence">Refresh cadence</h2>
+<h2 data-anchor-id="refresh-cadence">Refresh cadence</h2>
 <p>Quarterly. The build scripts are idempotent and upsert new records, so each refresh just pulls whatever is new from the mutable sources (Truth Social, any post-2022 Twitter, newly-archived speeches).</p>
 </section>
 <section id="credits" class="level2">
-<h2 class="anchored" data-anchor-id="credits">Credits</h2>
+<h2 data-anchor-id="credits">Credits</h2>
 <ul>
 <li>Trump Twitter Archive → MarkHershey/CompleteTrumpTweetsArchive</li>
 <li>Truth Social feed → CNN (ix.cnn.io)</li>
@@ -251,7 +251,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="source-code" class="level2">
-<h2 class="anchored" data-anchor-id="source-code">Source code</h2>
+<h2 data-anchor-id="source-code">Source code</h2>
 <p>The code that builds this site is on GitHub: <a href="https://github.com/gcicc/trump-corpus">gcicc/trump-corpus</a>.</p>
 
 
@@ -260,13 +260,6 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -747,4 +740,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
