@@ -1,0 +1,101 @@
+{
+  "avatars": {
+    "2009": {
+      "source": "wikimedia_commons",
+      "commons_title": "File:Fleet Week New York City 2009 090521-N-QF368-095.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fleet_Week_New_York_City_2009_090521-N-QF368-095.jpg",
+      "artist": "Petty Officer 3rd Class David Danals",
+      "license": "Public domain",
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.dvidshub.net/image/1577166/fleet-week-new-york-city-2009\">https://www.dvidshub.net/image/1577166/fleet-week-new-york-city-2009</a>",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Fleet_Week_New_York_City_2009_090521-N-QF368-095.jpg"
+    },
+    "2010": {
+      "source": "fallback",
+      "from_year": 2009
+    },
+    "2011": {
+      "source": "wikimedia_commons",
+      "commons_title": "File:Donald Trump's check to Kamala Harris.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump%27s_check_to_Kamala_Harris.jpg",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Donald_Trump\" class=\"extiw\" title=\"w:en:Donald Trump\"><span title=\"President of the United States (2017\u20132021; since 2025)\">Donald Trump</span></a></bdi>",
+      "license": "Public domain",
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://x.com/HenryLWalker/status/1815420947421188223/photo/1\">https://x.com/HenryLWalker/status/1815420947421188223/photo/1</a>",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump%27s_check_to_Kamala_Harris.jpg"
+    },
+    "2012": {
+      "source": "fallback",
+      "from_year": 2011
+    },
+    "2013": {
+      "source": "fallback",
+      "from_year": 2012
+    },
+    "2014": {
+      "source": "fallback",
+      "from_year": 2013
+    },
+    "2015": {
+      "source": "fallback",
+      "from_year": 2014
+    },
+    "2016": {
+      "source": "fallback",
+      "from_year": 2015
+    },
+    "2017": {
+      "source": "wikimedia_commons",
+      "commons_title": "File:Trump POTUS Twitter icon.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Trump_POTUS_Twitter_icon.jpg",
+      "artist": "President of the United States",
+      "license": "Public domain",
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://twitter.com/potus\">https://twitter.com/potus</a>",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Trump_POTUS_Twitter_icon.jpg"
+    },
+    "2018": {
+      "source": "fallback",
+      "from_year": 2017
+    },
+    "2019": {
+      "source": "fallback",
+      "from_year": 2018
+    },
+    "2020": {
+      "source": "fallback",
+      "from_year": 2019
+    },
+    "2021": {
+      "source": "wikimedia_commons",
+      "commons_title": "File:Donald J Trump Presidential Library website screenshot.png",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Donald_J_Trump_Presidential_Library_website_screenshot.png",
+      "artist": "NARA",
+      "license": "Public domain",
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.trumplibrary.gov/\">https://www.trumplibrary.gov/</a>",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Donald_J_Trump_Presidential_Library_website_screenshot.png"
+    },
+    "2022": {
+      "source": "fallback",
+      "from_year": 2021
+    },
+    "2023": {
+      "source": "wikimedia_commons",
+      "commons_title": "File:Donald Trump - United we stand.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Donald_Trump_-_United_we_stand.jpg",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Elekes_Andor\" title=\"User:Elekes Andor\">Elekes Andor</a>",
+      "license": "CC0",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump_-_United_we_stand.jpg"
+    },
+    "2024": {
+      "source": "fallback",
+      "from_year": 2023
+    },
+    "2025": {
+      "source": "fallback",
+      "from_year": 2024
+    },
+    "2026": {
+      "source": "fallback",
+      "from_year": 2025
+    }
+  }
+}
