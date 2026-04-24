@@ -3,16 +3,17 @@ title: ""
 page-layout: full
 toc: false
 anchor-sections: false
+title-block-style: none
 ---
 
 ```{=html}
 <div class="hero">
-<h1>Donald Trump — In His Own Words</h1>
+<div class="hero-title">Donald Trump — In His Own Words</div>
 <p class="lede">Eighty-seven thousand posts across Twitter and Truth Social, more than eight hundred speeches and public statements, from 2009 to today. Curated into eighteen recurring topics. Read by year, by topic, or follow the path across the country.</p>
 <div class="stats">
   <div class="stat"><span class="n">87,146</span><span class="l">posts</span></div>
   <div class="stat"><span class="n">884</span><span class="l">speeches</span></div>
-  <div class="stat"><span class="n">17</span><span class="l">years</span></div>
+  <div class="stat"><span class="n">18</span><span class="l">years</span></div>
   <div class="stat"><span class="n">18</span><span class="l">topics</span></div>
 </div>
 </div>
