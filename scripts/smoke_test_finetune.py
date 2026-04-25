@@ -7,6 +7,7 @@ so we can A/B-listen against the existing zero-shot renders in site/audio/.
 
 from __future__ import annotations
 
+import argparse
 import os
 import sys
 import time
@@ -16,8 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RUN = ROOT / "data" / "voice_dataset" / "run" / "training"
 FT_DIR = RUN / "GPT_XTTS_FT-April-25-2026_09+34AM-f5ba92c"
 BASE_DIR = RUN / "XTTS_v2.0_original_model_files"
-REF_CLIP = ROOT / "data" / "raw" / "trump_reference.wav"
-OUT = ROOT / "data" / "voice_dataset" / "samples"
+DEFAULT_REF = ROOT / "data" / "raw" / "trump_reference.wav"
 
 CHECKPOINT = FT_DIR / "best_model_1617.pth"
 CONFIG = FT_DIR / "config.json"
@@ -53,12 +53,29 @@ def find_ffmpeg() -> str | None:
 
 
 def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--ref", type=Path, default=DEFAULT_REF,
+                    help="speaker-reference clip (default: inaugural)")
+    ap.add_argument("--out-dir", type=Path,
+                    default=ROOT / "data" / "voice_dataset" / "samples",
+                    help="output directory for sample MP3s")
+    ap.add_argument("--temperature", type=float, default=0.7)
+    ap.add_argument("--rep-penalty", type=float, default=2.0,
+                    help="repetition_penalty (lower = more emphasis stacking)")
+    ap.add_argument("--top-p", type=float, default=0.85)
+    args = ap.parse_args()
+
+    REF_CLIP = args.ref
+    OUT = args.out_dir
+
     for path in (CHECKPOINT, CONFIG, VOCAB, REF_CLIP):
         if not path.exists():
             print(f"missing: {path}", file=sys.stderr)
             return 1
 
     OUT.mkdir(parents=True, exist_ok=True)
+    print(f"reference: {REF_CLIP}")
+    print(f"output:    {OUT}")
 
     print("loading fine-tuned XTTS-v2…")
     t0 = time.time()
@@ -109,11 +126,11 @@ def main() -> int:
             language="en",
             gpt_cond_latent=gpt_cond_latent,
             speaker_embedding=speaker_embedding,
-            temperature=0.7,
+            temperature=args.temperature,
             length_penalty=1.0,
-            repetition_penalty=2.0,
+            repetition_penalty=args.rep_penalty,
             top_k=50,
-            top_p=0.85,
+            top_p=args.top_p,
         )
         wav = np.asarray(result["wav"], dtype=np.float32)
         sf.write(wav_path, wav, 24000, subtype="PCM_16")
