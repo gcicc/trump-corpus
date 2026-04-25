@@ -34,3 +34,12 @@ site/data/audio_manifest.json
 site/data/images.json
 site/data/locations.json
 !site/data/topics.json
+
+# Voice fine-tuning dataset + checkpoints (regenerable; large)
+data/voice_dataset/
+
+# Vendored binaries (ffmpeg shared libs for torchcodec on Windows)
+tools/
+
+# Playwright MCP scratch
+.playwright-mcp/
