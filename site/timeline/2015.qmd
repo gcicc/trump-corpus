@@ -1,8 +1,13 @@
 ---
-title: "2015"
-subtitle: "7,707 posts this year. Showing first 300."
+title: ""
+title-block-style: none
 anchor-sections: false
 ---
+
+```{=html}
+<div class="year-banner"><div class="portrait" style="background-image:url(../assets/avatars/2015.jpg)"></div><div><div class="year-num">2015</div><div class="year-meta">7,707 posts this year. Showing first 300.</div></div></div>
+```
+
 
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 

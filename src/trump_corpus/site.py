@@ -290,17 +290,24 @@ def render_theme_page(conn: sqlite3.Connection, theme: Theme, limit: int = 40) -
         + "\n```\n"
     )
 
+    theme_banner = (
+        "```{=html}\n"
+        f'<div class="theme-banner" style="--theme-bg: {theme.color};">'
+        f'<div class="banner-title">{_esc(theme.label)}</div>'
+        f'<p class="banner-sub">{total:,} posts where this was the primary topic.</p>'
+        '</div>'
+        "\n```\n"
+    )
+
     body = f"""---
-title: "{_esc(theme.label)}"
-subtitle: "{total:,} posts where this was the primary topic."
+title: ""
+title-block-style: none
 anchor-sections: false
 ---
 
-<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+{theme_banner}
 
-<style>
-  h1 {{ border-bottom-color: {theme.color} !important; }}
-</style>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 
 {volume_html}
 
@@ -441,11 +448,25 @@ def render_year_page(conn: sqlite3.Connection, year: str, limit: int = 300) -> N
         "\n```\n"
     )
 
+    year_banner = (
+        "```{=html}\n"
+        '<div class="year-banner">'
+        f'<div class="portrait" style="background-image:url(../assets/avatars/{year}.jpg)"></div>'
+        '<div>'
+        f'<div class="year-num">{year}</div>'
+        f'<div class="year-meta">{total_year:,} posts this year. Showing first {len(cards_html)}.</div>'
+        '</div>'
+        '</div>'
+        "\n```\n"
+    )
+
     body = f"""---
-title: "{year}"
-subtitle: "{total_year:,} posts this year. Showing first {len(cards_html)}."
+title: ""
+title-block-style: none
 anchor-sections: false
 ---
+
+{year_banner}
 
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 

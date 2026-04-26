@@ -1,7 +1,15 @@
 ---
-title: "About this archive"
+title: ""
 toc: true
+title-block-style: none
 ---
+
+```{=html}
+<div class="page-banner" style="--hero-image: url('assets/heroes/official_portrait.jpg');">
+  <div class="banner-title">About this archive</div>
+  <p class="banner-sub">Where the data came from, how topics were assigned, and what's missing.</p>
+</div>
+```
 
 ## What this is
 

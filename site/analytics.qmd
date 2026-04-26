@@ -1,11 +1,18 @@
 ---
-title: "Patterns in the Posts"
-subtitle: "What 87,146 posts tell you when you stack them up."
+title: ""
 page-layout: full
 toc: true
 toc-depth: 2
 anchor-sections: false
+title-block-style: none
 ---
+
+```{=html}
+<div class="page-banner" style="--hero-image: url('assets/heroes/capitol.jpg');">
+  <div class="banner-title">Patterns in the Posts</div>
+  <p class="banner-sub">What 87,146 posts tell you when you stack them up.</p>
+</div>
+```
 
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 

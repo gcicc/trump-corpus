@@ -42,6 +42,7 @@ site/data/sentiment.json
 site/data/lexical.json
 site/data/tfidf.json
 site/data/topic_stream.json
+site/data/heroes.json
 !site/data/topics.json
 
 # Voice fine-tuning dataset + checkpoints (regenerable; large)

@@ -98,6 +98,103 @@ a:hover { color: var(--red); }
 }
 .hero .stats .stat .l { font-size: 0.9rem; opacity: 0.85; }
 
+/* -------- Sub-page banner (shorter than hero) -------- */
+.page-banner {
+  position: relative;
+  background: linear-gradient(rgba(10,37,64,0.55), rgba(10,37,64,0.78)),
+              var(--hero-image, linear-gradient(135deg, #0A2540, #1B2338));
+  background-size: cover;
+  background-position: center 35%;
+  color: var(--cream);
+  padding: 2.4rem 2rem;
+  border-radius: 6px;
+  margin: 0 0 1.6rem 0;
+  border: 1px solid var(--gold);
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.page-banner h1, .page-banner .banner-title {
+  color: var(--cream);
+  font-size: 2.0rem;
+  font-weight: 800;
+  font-family: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  border: none;
+  margin: 0 0 0.2em 0;
+  line-height: 1.15;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+.page-banner p.banner-sub {
+  font-size: 1.05rem;
+  margin: 0;
+  opacity: 0.95;
+  font-family: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+/* -------- Year-page banner: portrait + year on left, stats on right -------- */
+.year-banner {
+  display: flex;
+  align-items: center;
+  gap: 1.4rem;
+  background: linear-gradient(135deg, var(--navy), #1B2338);
+  border: 1px solid var(--gold);
+  border-radius: 6px;
+  padding: 1.4rem 1.6rem;
+  margin: 0 0 1.6rem 0;
+  color: var(--cream);
+}
+.year-banner .portrait {
+  width: 110px; height: 110px;
+  border-radius: 50%;
+  border: 3px solid var(--gold);
+  background-size: cover;
+  background-position: center top;
+  flex-shrink: 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+.year-banner .year-num {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 3.4rem;
+  font-weight: 800;
+  color: var(--gold);
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+.year-banner .year-meta {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 1.0rem;
+  opacity: 0.92;
+  margin-top: 0.3rem;
+}
+
+/* -------- Theme-page banner: colored block with theme accent -------- */
+.theme-banner {
+  background: linear-gradient(120deg, var(--theme-bg, #0A2540) 0%, #0A2540 100%);
+  border: 1px solid var(--gold);
+  border-left: 8px solid var(--theme-bg, var(--gold));
+  border-radius: 6px;
+  padding: 1.6rem 1.8rem;
+  margin: 0 0 1.6rem 0;
+  color: var(--cream);
+}
+.theme-banner h1, .theme-banner .banner-title {
+  color: var(--cream);
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 2.1rem;
+  font-weight: 800;
+  border: none;
+  margin: 0;
+  line-height: 1.15;
+}
+.theme-banner .banner-sub {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 1.0rem;
+  opacity: 0.92;
+  margin: 0.3rem 0 0 0;
+}
+
 /* -------- Nav cards (landing) -------- */
 .nav-cards {
   display: grid;

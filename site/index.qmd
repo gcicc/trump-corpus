@@ -7,7 +7,7 @@ title-block-style: none
 ---
 
 ```{=html}
-<div class="hero">
+<div class="hero" style="--hero-image: url('assets/heroes/white_house.jpg');">
 <div class="hero-title">Donald Trump — In His Own Words</div>
 <p class="lede">Eighty-seven thousand posts across Twitter and Truth Social, more than eight hundred speeches and public statements, from 2009 to today. Curated into eighteen recurring topics. Read by year, by topic, or follow the path across the country.</p>
 <div class="stats">
