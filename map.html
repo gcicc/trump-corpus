@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 
 </div>
 <div style="margin-top: 1rem; font-family: 'Libre Franklin', sans-serif;">
-<p><button class="read-aloud" id="play-journey">▶ Play Journey</button> <span id="journey-caption" class="muted" style="margin-left: 1rem;"></span></p>
+<p><button class="read-aloud" id="play-journey">▶ Play Journey</button> <label for="journey-speed" class="muted" style="margin-left: 1rem;">Speed:</label> <select id="journey-speed" style="font-family: inherit; padding: 0.25rem 0.4rem;"> <option value="slow" selected="">Slow</option> <option value="normal">Normal</option> <option value="fast">Fast</option> </select> <span id="journey-caption" class="muted" style="margin-left: 1rem;"></span></p>
 </div>
 <script>
 (function () {
@@ -208,25 +208,41 @@ ul.task-list li input[type="checkbox"] {
       // Play journey
       var playBtn = document.getElementById("play-journey");
       var caption = document.getElementById("journey-caption");
+      var speedSel = document.getElementById("journey-speed");
+      // tick = ms between stops; fly = flyTo duration in seconds
+      var SPEEDS = {
+        slow:   { tick: 3000, fly: 1.6 },
+        normal: { tick: 1400, fly: 1.0 },
+        fast:   { tick:  700, fly: 0.6 }
+      };
+      function currentSpeed() {
+        return SPEEDS[(speedSel && speedSel.value) || "slow"] || SPEEDS.slow;
+      }
       var idx = 0, timer = null;
+      function stopJourney() {
+        if (timer) { clearTimeout(timer); timer = null; }
+        playBtn.textContent = "▶ Play Journey";
+      }
+      function step() {
+        if (idx >= markers.length) {
+          stopJourney();
+          caption.textContent = "Done.";
+          return;
+        }
+        var item = markers[idx++];
+        var s = currentSpeed();
+        map.flyTo([item.stop.lat, item.stop.lng], 6, { duration: s.fly });
+        map.once("moveend", function () { item.m.openPopup(); });
+        caption.textContent = (item.stop.date || "") + " · " + (item.stop.label || item.stop.city);
+        // Re-read speed each tick so the dial takes effect mid-play.
+        timer = setTimeout(step, s.tick);
+      }
       if (playBtn) {
         playBtn.addEventListener("click", function () {
-          if (timer) { clearInterval(timer); timer = null; playBtn.textContent = "▶ Play Journey"; return; }
+          if (timer) { stopJourney(); return; }
           idx = 0;
           playBtn.textContent = "■ Stop";
-          timer = setInterval(function () {
-            if (idx >= markers.length) {
-              clearInterval(timer); timer = null;
-              playBtn.textContent = "▶ Play Journey";
-              caption.textContent = "Done.";
-              return;
-            }
-            var item = markers[idx++];
-            map.flyTo([item.stop.lat, item.stop.lng], 6, { duration: 1.0 });
-            // Open popup after the flyTo lands so Leaflet can autoPan it into view.
-            map.once("moveend", function () { item.m.openPopup(); });
-            caption.textContent = (item.stop.date || "") + " · " + (item.stop.label || item.stop.city);
-          }, 1400);
+          step();
         });
       }
     });
