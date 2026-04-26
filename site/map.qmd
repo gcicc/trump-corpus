@@ -19,6 +19,12 @@ title-block-style: none
 
 <div style="margin-top: 1rem; font-family: 'Libre Franklin', sans-serif;">
   <button class="read-aloud" id="play-journey">▶ Play Journey</button>
+  <label for="journey-speed" class="muted" style="margin-left: 1rem;">Speed:</label>
+  <select id="journey-speed" style="font-family: inherit; padding: 0.25rem 0.4rem;">
+    <option value="slow" selected>Slow</option>
+    <option value="normal">Normal</option>
+    <option value="fast">Fast</option>
+  </select>
   <span id="journey-caption" class="muted" style="margin-left: 1rem;"></span>
 </div>
 
