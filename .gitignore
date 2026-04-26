@@ -38,6 +38,10 @@ site/data/locations.json
 site/data/temporal.json
 site/data/storm_days.json
 site/data/nicknames.json
+site/data/sentiment.json
+site/data/lexical.json
+site/data/tfidf.json
+site/data/topic_stream.json
 !site/data/topics.json
 
 # Voice fine-tuning dataset + checkpoints (regenerable; large)
