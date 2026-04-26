@@ -112,6 +112,8 @@ def _post_card_html(
 def _load_posts_by_theme(
     conn: sqlite3.Connection, theme: str, limit: int = 20
 ) -> list[dict]:
+    # Select top-N by relevance score, then re-sort chronologically (oldest
+    # first) so theme pages match year pages in reading order.
     rows = conn.execute(
         """
         SELECT p.id, p.platform, p.account, p.timestamp_utc, p.text, p.source_url,
@@ -125,7 +127,9 @@ def _load_posts_by_theme(
         (theme, limit),
     ).fetchall()
     cols = ["id", "platform", "account", "timestamp_utc", "text", "source_url", "score"]
-    return [dict(zip(cols, r)) for r in rows]
+    posts = [dict(zip(cols, r)) for r in rows]
+    posts.sort(key=lambda p: p.get("timestamp_utc") or "")
+    return posts
 
 
 def _all_themes_for_post(conn: sqlite3.Connection, post_ids: list[str]) -> dict[str, list[tuple[str, float]]]:

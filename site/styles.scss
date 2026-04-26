@@ -229,6 +229,26 @@ a:hover { color: var(--red); }
 .read-aloud:hover { background: var(--red); }
 .read-aloud[disabled] { opacity: 0.45; cursor: default; }
 
+/* Distinct flag for posts where a Trump-voice clip exists vs browser fallback. */
+.read-aloud.has-clone {
+  background: var(--red);
+  color: var(--gold);
+  font-weight: 600;
+  box-shadow: 0 0 0 1px var(--gold) inset;
+}
+.read-aloud.has-clone:hover { background: #6e0e0e; }
+.read-aloud.no-clone {
+  background: transparent;
+  color: var(--navy);
+  border: 1px dashed rgba(0, 0, 0, 0.25);
+  font-weight: 400;
+  opacity: 0.7;
+}
+.read-aloud.no-clone:hover {
+  background: rgba(0, 0, 0, 0.04);
+  opacity: 1;
+}
+
 /* -------- Filter bar -------- */
 .filter-bar {
   position: sticky;

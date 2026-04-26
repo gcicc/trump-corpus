@@ -72,6 +72,24 @@ def _clean_text(s: str) -> str:
     return s
 
 
+def select_bad_nicknames(conn: sqlite3.Connection) -> list[dict]:
+    """Every renderable post that contains a Trump bad-nickname (strict regex)."""
+    rows = conn.execute(
+        """
+        SELECT DISTINCT p.id, p.text, p.timestamp_utc,
+               COALESCE((SELECT theme FROM post_themes pt
+                          WHERE pt.post_id = p.id AND pt.rank = 1), 'nicknames_bad') AS theme,
+               1.0 AS score
+          FROM post_nicknames pn
+          JOIN posts p ON p.id = pn.post_id
+         WHERE pn.sentiment = 'bad'
+           AND length(p.text) BETWEEN 40 AND 280
+        """
+    ).fetchall()
+    cols = ["id", "text", "timestamp_utc", "theme", "score"]
+    return [dict(zip(cols, r)) for r in rows]
+
+
 def select_posts(conn: sqlite3.Connection, n: int) -> list[dict]:
     """Spread across themes + time, prefer longer readable posts."""
     # Top post per theme by score, up to k themes
@@ -170,6 +188,9 @@ def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--n", type=int, default=500, help="how many posts to render (default 500)")
     p.add_argument("--dry-run", action="store_true", help="select posts but don't render audio")
+    p.add_argument("--bad-nicknames", action="store_true",
+                   help="select every renderable post with a strict bad-nickname regex match "
+                        "(overrides --n; ~1900 posts)")
     p.add_argument("--ref", type=Path, default=DEFAULT_REF,
                    help=f"speaker reference clip (default: {DEFAULT_REF.name})")
     p.add_argument("--temperature", type=float, default=0.85)
@@ -184,7 +205,8 @@ def main() -> int:
         return 1
 
     conn = sqlite3.connect(DB)
-    picks = select_posts(conn, args.n)
+    picks = (select_bad_nicknames(conn) if args.bad_nicknames
+             else select_posts(conn, args.n))
     conn.close()
     print(f"selected {len(picks)} posts across {len({p['theme'] for p in picks})} themes")
 

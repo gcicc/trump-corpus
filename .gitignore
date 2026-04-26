@@ -27,6 +27,8 @@ notebooks/scratch*
 # Quarto build
 site/_site/
 site/.quarto/
+site/debug.log
+site/data/audio_selection_preview.json
 
 # Audio renders (large; regenerable with scripts/render_voice.py)
 site/audio/
