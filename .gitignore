@@ -35,6 +35,9 @@ site/audio/
 site/data/audio_manifest.json
 site/data/images.json
 site/data/locations.json
+site/data/temporal.json
+site/data/storm_days.json
+site/data/nicknames.json
 !site/data/topics.json
 
 # Voice fine-tuning dataset + checkpoints (regenerable; large)

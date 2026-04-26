@@ -23,6 +23,8 @@ website:
         href: timeline.qmd
       - text: "Map"
         href: map.qmd
+      - text: "Patterns"
+        href: analytics.qmd
       - text: "About"
         href: about.qmd
   page-footer:

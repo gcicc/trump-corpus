@@ -3,11 +3,14 @@
   var mapEl = document.getElementById("trump-map");
   if (!mapEl) return;
 
-  var map = L.map("trump-map", { zoomControl: true }).setView([39.5, -98.35], 4);
+  var map = L.map("trump-map", { zoomControl: false }).setView([39.5, -98.35], 4);
+  L.control.zoom({ position: "bottomright" }).addTo(map);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap",
     maxZoom: 12
   }).addTo(map);
+  // Keep popups clear of map edges so the +/- controls and caption never overlap.
+  var popupOpts = { autoPanPadding: [60, 80] };
 
   var eraColors = {
     "campaign-2016":     "#8C5E2A",
@@ -37,7 +40,8 @@
         m.bindPopup(
           "<b>" + (s.label || s.city) + "</b><br>" +
           (s.date ? s.date + "<br>" : "") +
-          (s.type || "")
+          (s.type || ""),
+          popupOpts
         );
         markers.push({ m: m, stop: s });
         pathPoints.push([s.lat, s.lng]);
@@ -66,8 +70,9 @@
               return;
             }
             var item = markers[idx++];
-            map.setView([item.stop.lat, item.stop.lng], 6, { animate: true });
-            item.m.openPopup();
+            map.flyTo([item.stop.lat, item.stop.lng], 6, { duration: 1.0 });
+            // Open popup after the flyTo lands so Leaflet can autoPan it into view.
+            map.once("moveend", function () { item.m.openPopup(); });
             caption.textContent = (item.stop.date || "") + " · " + (item.stop.label || item.stop.city);
           }, 1400);
         });
