@@ -60,12 +60,14 @@
           btn.dataset.audioUrl = prefixAudio() + pid + ".mp3";
           btn.title = "Plays a pre-rendered Trump-voice clip";
           btn.disabled = false;
-          btn.textContent = "▶ Read aloud";
+          btn.textContent = "▶ Trump voice";
+          btn.classList.add("has-clone");
         } else {
           // Browser-TTS fallback available to anyone
           btn.title = "Uses your browser's voice (no Trump clone rendered for this post)";
           btn.disabled = false;
-          btn.textContent = "🔊 Read aloud";
+          btn.textContent = "🔊 Browser voice";
+          btn.classList.add("no-clone");
         }
         btn.addEventListener("click", function (e) { e.preventDefault(); onClick(btn); });
       });

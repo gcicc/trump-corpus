@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The Map – Donald Trump — In His Own Words</title>
+<title>map – Donald Trump — In His Own Words</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-8b4baf804e461d9b72633f0de59a0cac.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3410ea8eb07e792e2039c1fc1d7c2e57.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bbebd9e1d895a6ddacd2c71ca7374e58.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,6 +113,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Map</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./analytics.html"> 
+<span class="menu-text">Patterns</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -129,28 +133,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">The Map</h1>
+
+
+
+<div class="page-banner" style="--hero-image: url('assets/heroes/rally_crowd.jpg');">
+  <div class="banner-title">The Map</div>
+  <p class="banner-sub">Every rally, every major stop. Ordered chronologically — press <b>Play Journey</b> to fly through.</p>
 </div>
-
-
-
-<div class="quarto-title-meta column-page">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Every rally, every major stop. Ordered chronologically — press <strong>Play Journey</strong> to fly through.</p>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <div id="trump-map" class="trump-map">
@@ -164,11 +155,14 @@ ul.task-list li input[type="checkbox"] {
   var mapEl = document.getElementById("trump-map");
   if (!mapEl) return;
 
-  var map = L.map("trump-map", { zoomControl: true }).setView([39.5, -98.35], 4);
+  var map = L.map("trump-map", { zoomControl: false }).setView([39.5, -98.35], 4);
+  L.control.zoom({ position: "bottomright" }).addTo(map);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap",
     maxZoom: 12
   }).addTo(map);
+  // Keep popups clear of map edges so the +/- controls and caption never overlap.
+  var popupOpts = { autoPanPadding: [60, 80] };
 
   var eraColors = {
     "campaign-2016":     "#8C5E2A",
@@ -198,7 +192,8 @@ ul.task-list li input[type="checkbox"] {
         m.bindPopup(
           "<b>" + (s.label || s.city) + "</b><br>" +
           (s.date ? s.date + "<br>" : "") +
-          (s.type || "")
+          (s.type || ""),
+          popupOpts
         );
         markers.push({ m: m, stop: s });
         pathPoints.push([s.lat, s.lng]);
@@ -227,8 +222,9 @@ ul.task-list li input[type="checkbox"] {
               return;
             }
             var item = markers[idx++];
-            map.setView([item.stop.lat, item.stop.lng], 6, { animate: true });
-            item.m.openPopup();
+            map.flyTo([item.stop.lat, item.stop.lng], 6, { duration: 1.0 });
+            // Open popup after the flyTo lands so Leaflet can autoPan it into view.
+            map.once("moveend", function () { item.m.openPopup(); });
             caption.textContent = (item.stop.date || "") + " · " + (item.stop.label || item.stop.city);
           }, 1400);
         });

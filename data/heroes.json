@@ -1,0 +1,66 @@
+{
+  "white_house": {
+    "title": "File:The White House North Portico in Washington, D.C.jpg",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Hkeely\" title=\"User:Hkeely\">Harrison Keely</a>",
+    "license": "CC BY 4.0",
+    "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:The_White_House_North_Portico_in_Washington,_D.C.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_White_House_North_Portico_in_Washington%2C_D.C.jpg"
+  },
+  "oval_office": {
+    "title": "File:Donald Trump in the Oval Office, June 2017.jpg",
+    "artist": "Presidency of Ukraine",
+    "license": "CC BY 4.0",
+    "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.president.gov.ua/storage/j-image-storage/04/79/98/f3e0b0a7bb473d79af3803b36ccd0455_1497979645.jpeg\">http://www.president.gov.ua/storage/j-image-storage/04/79/98/f3e0b0a7bb473d79af3803b36ccd0455_1497979645.jpeg</a>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump_in_the_Oval_Office,_June_2017.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Donald_Trump_in_the_Oval_Office%2C_June_2017.jpg"
+  },
+  "oval_panorama": {
+    "title": "File:Trump Oval Office panorama.jpg",
+    "artist": "The White House",
+    "license": "Public domain",
+    "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/WhiteHouse/photos/a.1198896020198129.1073741827.1191441824276882/1205841546170243/?type=3&amp;theater\">The White House on Facebook</a>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Trump_Oval_Office_panorama.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Trump_Oval_Office_panorama.jpg"
+  },
+  "air_force_one": {
+    "title": "File:Trump Force One at Stewart.jpg",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jjazz76\" title=\"User:Jjazz76\">Jjazz76</a>",
+    "license": "CC BY-SA 4.0",
+    "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Trump_Force_One_at_Stewart.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Trump_Force_One_at_Stewart.jpg"
+  },
+  "capitol": {
+    "title": "File:US Capitol east side.JPG",
+    "artist": "<bdi>Martin Falbisoner</bdi>",
+    "license": "CC BY-SA 3.0",
+    "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/US_Capitol_east_side.JPG"
+  },
+  "rally_crowd": {
+    "title": "File:Trump rally crowd (33772798884).jpg",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65581273@N05\">Hayden Schiff</a> from Cincinnati, USA",
+    "license": "CC BY 2.0",
+    "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/oxguy3/33772798884/\">Trump rally crowd</a>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Trump_rally_crowd_(33772798884).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Trump_rally_crowd_%2833772798884%29.jpg"
+  },
+  "signing_ceremony": {
+    "title": "File:President Trump Signs an Executive Order (50119222336).jpg",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/148748355@N05\">The White House</a> from Washington, DC",
+    "license": "Public domain",
+    "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/whitehouse/50119222336/\">President Trump Signs an Executive Order</a>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:President_Trump_Signs_an_Executive_Order_(50119222336).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/President_Trump_Signs_an_Executive_Order_%2850119222336%29.jpg"
+  },
+  "official_portrait": {
+    "title": "File:Donald Trump official portrait.jpg",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Shealah_Craighead\" class=\"extiw\" title=\"w:en:Shealah Craighead\"><span title=\"American photographer\">Shealeah Craighead</span></a></bdi>",
+    "license": "Public domain",
+    "credit": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ppbd.00608\">ppbd.00608</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg"
+  }
+}
