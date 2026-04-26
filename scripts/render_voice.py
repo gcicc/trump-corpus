@@ -1,12 +1,16 @@
-"""Pre-render top-N posts as Trump-voice MP3s using Coqui XTTS-v2.
+"""Pre-render top-N posts as Trump-voice MP3s using fine-tuned XTTS-v2.
 
-Requires the `trump-voice` venv (Python 3.11 with coqui-tts + compatible transformers).
-The XTTS-v2 model download (~1.8 GB) happens on first run and is cached by HF.
+Requires the `trump-voice` venv (Python 3.11 with coqui-tts + Resemblyzer
+trained checkpoint at data/voice_dataset/run/training/.../best_model_*.pth).
 
 Selection of the top-N posts:
   - Highest-scoring post per theme (breadth)
   - Most recent posts (topicality)
   - Long-form posts that read well
+
+Production settings (locked in after smoke-test A/B):
+  - Reference: rally clip (Hershey 0489+0525 concatenated, sim 0.84)
+  - Temperature 0.85, repetition_penalty 2.0, top_p 0.85
 
 Output:
   site/audio/<post_id>.mp3
@@ -28,7 +32,14 @@ DB = ROOT / "data" / "processed" / "corpus.sqlite"
 SITE = ROOT / "site"
 AUDIO_DIR = SITE / "audio"
 MANIFEST = SITE / "data" / "audio_manifest.json"
-REF_CLIP = ROOT / "data" / "raw" / "trump_reference.wav"
+DEFAULT_REF = ROOT / "data" / "raw" / "trump_rally_reference.wav"
+
+RUN_BASE = ROOT / "data" / "voice_dataset" / "run" / "training"
+FT_DIR = RUN_BASE / "GPT_XTTS_FT-April-25-2026_09+34AM-f5ba92c"
+BASE_DIR = RUN_BASE / "XTTS_v2.0_original_model_files"
+CHECKPOINT = FT_DIR / "best_model_1617.pth"
+CONFIG = FT_DIR / "config.json"
+VOCAB = BASE_DIR / "vocab.json"
 
 # XTTS-v2 license auto-accept (Coqui Public Model License — personal use OK)
 os.environ.setdefault("COQUI_TOS_AGREED", "1")
@@ -104,14 +115,26 @@ def select_posts(conn: sqlite3.Connection, n: int) -> list[dict]:
     return picks[:n]
 
 
-def render_one(tts, text: str, out_wav: Path, speaker_wav: str) -> bool:
+def render_one(model, latents, text: str, out_wav: Path, *,
+               temperature: float, rep_penalty: float, top_p: float) -> bool:
+    import numpy as np
+    import soundfile as sf
+
+    gpt_cond_latent, speaker_embedding = latents
     try:
-        tts.tts_to_file(
+        result = model.inference(
             text=text,
-            speaker_wav=speaker_wav,
             language="en",
-            file_path=str(out_wav),
+            gpt_cond_latent=gpt_cond_latent,
+            speaker_embedding=speaker_embedding,
+            temperature=temperature,
+            length_penalty=1.0,
+            repetition_penalty=rep_penalty,
+            top_k=50,
+            top_p=top_p,
         )
+        wav = np.asarray(result["wav"], dtype=np.float32)
+        sf.write(out_wav, wav, 24000, subtype="PCM_16")
         return True
     except Exception as e:  # noqa: BLE001
         print(f"  [render] FAIL {out_wav.name}: {type(e).__name__}: {e}")
@@ -147,6 +170,13 @@ def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--n", type=int, default=500, help="how many posts to render (default 500)")
     p.add_argument("--dry-run", action="store_true", help="select posts but don't render audio")
+    p.add_argument("--ref", type=Path, default=DEFAULT_REF,
+                   help=f"speaker reference clip (default: {DEFAULT_REF.name})")
+    p.add_argument("--temperature", type=float, default=0.85)
+    p.add_argument("--rep-penalty", type=float, default=2.0)
+    p.add_argument("--top-p", type=float, default=0.85)
+    p.add_argument("--force", action="store_true",
+                   help="re-render even if MP3 already exists (use after model swap)")
     args = p.parse_args()
 
     if not DB.exists():
@@ -166,17 +196,32 @@ def main() -> int:
         print(f"dry run -> {preview}")
         return 0
 
-    if not REF_CLIP.exists():
-        print(f"Reference clip missing: {REF_CLIP}")
-        print("Place a 10-30 sec clean Trump audio clip (wav, 22050 Hz or higher) "
-              "at that path before running.")
-        return 2
+    REF_CLIP = args.ref
+    for path in (REF_CLIP, CHECKPOINT, CONFIG, VOCAB):
+        if not path.exists():
+            print(f"missing: {path}", file=sys.stderr)
+            return 2
 
-    # Lazy import so --dry-run doesn't require TTS installed
-    from TTS.api import TTS  # type: ignore
+    # Lazy imports so --dry-run doesn't require TTS / torch
+    import torch
+    from TTS.tts.configs.xtts_config import XttsConfig
+    from TTS.tts.models.xtts import Xtts
 
-    print("loading XTTS-v2 (first run downloads ~1.8 GB)...")
-    tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2", progress_bar=False, gpu=False)
+    print(f"loading fine-tuned XTTS-v2 from {CHECKPOINT.name}…")
+    config = XttsConfig()
+    config.load_json(str(CONFIG))
+    model = Xtts.init_from_config(config)
+    model.load_checkpoint(
+        config,
+        checkpoint_path=str(CHECKPOINT),
+        vocab_path=str(VOCAB),
+        use_deepspeed=False,
+    )
+    if torch.cuda.is_available():
+        model.cuda()
+
+    print(f"extracting conditioning latents from {REF_CLIP.name}…")
+    latents = model.get_conditioning_latents(audio_path=[str(REF_CLIP)])
 
     manifest: dict = {}
     if MANIFEST.exists():
@@ -190,7 +235,7 @@ def main() -> int:
     for i, post in enumerate(picks, start=1):
         pid = post["id"]
         mp3 = AUDIO_DIR / f"{pid}.mp3"
-        if mp3.exists() and mp3.stat().st_size > 0:
+        if mp3.exists() and mp3.stat().st_size > 0 and not args.force:
             skipped += 1
             continue
 
@@ -199,7 +244,10 @@ def main() -> int:
             continue
 
         wav = AUDIO_DIR / f"{pid}.wav"
-        ok = render_one(tts, text, wav, str(REF_CLIP))
+        ok = render_one(model, latents, text, wav,
+                        temperature=args.temperature,
+                        rep_penalty=args.rep_penalty,
+                        top_p=args.top_p)
         if not ok:
             continue
         if not wav_to_mp3(wav, mp3):
